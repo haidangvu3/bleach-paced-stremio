@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "50 - United on the Desert.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=18s4E5QF6ahzdyozHLaYl5tQ8nh_zYYz-&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "50 - United on the Desert.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "50 - United on the Desert (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "50 - United on the Desert (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "50 - United on the Desert (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/50%20-%20United%20on%20the%20Desert%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "50 - United on the Desert (Sub).mp4"
+        "filename": "50 - United on the Desert (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "50 - United on the Desert (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "50 - United on the Desert.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "50 - United on the Desert.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=18s4E5QF6ahzdyozHLaYl5tQ8nh_zYYz-&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "50 - United on the Desert.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "50 - United on the Desert (Dub).mp4\nEnglish audio.",
+      "description": "50 - United on the Desert (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/50%20-%20United%20on%20the%20Desert%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "50 - United on the Desert (Dub).mp4"
+        "filename": "50 - United on the Desert (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

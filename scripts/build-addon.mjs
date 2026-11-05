@@ -112,12 +112,18 @@ function seedFiles(seed) {
 }
 
 export function makeStreams(files) {
-  const sorted = [...files].sort((a, b) => (a.provider === 'drive' ? 0 : 10) - (b.provider === 'drive' ? 0 : 10) || Number(a.extra) - Number(b.extra) || ({ 'Dual Audio': 0, Sub: 1, Dub: 2 }[a.language] - { 'Dual Audio': 0, Sub: 1, Dub: 2 }[b.language]));
+  // A dedicated subbed MP4 works without an embedded-track selector. Prefer it
+  // for Nuvio, retaining the full-quality MKV and English dub as alternatives.
+  const rank = file => (file.extra ? 100 : 0) + ({ Sub: 0, 'Dual Audio': 10, Dub: 20 }[file.language] ?? 30);
+  const sorted = [...files].sort((a, b) => rank(a) - rank(b) || (a.provider === 'drive' ? 0 : 1) - (b.provider === 'drive' ? 0 : 1));
   return [...new Map(sorted.map(file => {
     const url = file.provider === 'drive' ? `https://drive.usercontent.google.com/download?id=${encodeURIComponent(file.id)}&export=download&confirm=t` : `https://pixeldrain.com/api/filesystem/${file.path.replace(/^\//, '').split('/').map(encodeURIComponent).join('/')}`;
     const format = /\.mkv$/i.test(file.name) ? 'MKV' : 'MP4';
     const extra = file.extra ? file.ep === '62' ? ' [HB EX - Original Anime Ending]' : ' [HB EX - Movie-length]' : '';
-    return [url, { name: `${file.provider === 'drive' ? 'Google Drive' : 'Pixeldrain Backup'} [${file.language}${file.provider === 'drive' ? ` ${format}` : ''}]${extra}`, title: file.name, url, behaviorHints: { notWebReady: false, filename: file.name } }];
+    const provider = file.provider === 'drive' ? 'Google Drive' : 'Pixeldrain';
+    const language = file.language === 'Sub' ? 'Japanese audio + English subtitles' : file.language === 'Dub' ? 'English dub' : 'Dual audio + embedded subtitles';
+    const note = file.language === 'Sub' ? 'English subtitles are burned into the video; no subtitle switch needed.' : file.language === 'Dual Audio' ? 'Full-quality MKV. Select Japanese audio and the full English subtitle track in your player.' : 'English audio.';
+    return [url, { name: `${language} · ${provider} [${file.language} ${format}]${extra}`, title: `${file.name}\n${note}`, description: `${file.name}\n${note}`, url, behaviorHints: { notWebReady: format === 'MKV', filename: file.name, bingeGroup: `bleach-paced-${file.language.replaceAll(' ', '-').toLowerCase()}-${file.provider}${file.extra ? '-ex' : ''}` } }];
   })).values()];
 }
 
@@ -188,7 +194,7 @@ export function buildCatalog(sheets, rawFiles) {
     const released = sourceDate(row.released);
     videos.push({ id, title: `[${badge}] ${title}`, season: s + 1, episode: i + 1, overview, ...(released ? { released } : {}) });
     const streams = makeStreams(row.files);
-    if (!streams.length || !streams[0].url.startsWith('https://drive.usercontent.google.com/')) throw new Error(`Episode ${badge} lacks its primary Drive stream`);
+    if (!streams.length || !streams.some(s => s.url.startsWith('https://drive.usercontent.google.com/'))) throw new Error(`Episode ${badge} lacks a Drive stream`);
     responses[id] = { streams };
     episodeMap.push({ id, season: s + 1, episode: i + 1, project: row.project, originalEpisode: row.ep, chapters: row.chapters, title: row.title, streamCount: streams.length });
   }
@@ -275,11 +281,11 @@ export async function build({ offline = false } = {}) {
     await mkdir(path.dirname(filename), { recursive: true });
     await writeFile(filename, typeof value === 'string' ? value : JSON.stringify(value, null, 2) + '\n');
   }
-  const summary = { id: SERIES, type: 'series', name: 'Bleach — Concentrated + Hollowed', genres: ['Anime', 'Action', 'Adventure'], description: 'Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Four arcs in guide order; Google Drive first, Pixeldrain backups. Dual audio where available.' };
-  await write('manifest.json', { id: 'community.bleach.paced.keyless', version: '1.0.0', name: 'Concentrated + Hollowed Bleach', description: summary.description, types: ['series'], idPrefixes: ['cb_'], resources: ['catalog', { name: 'meta', types: ['series'], idPrefixes: ['cb_'] }, { name: 'stream', types: ['series'], idPrefixes: ['cb_'] }], catalogs: [{ type: 'series', id: 'bleach_paced_catalog', name: 'Bleach Paced' }], behaviorHints: { adult: false, p2p: false, configurable: false } });
+  const summary = { id: SERIES, type: 'series', name: 'Bleach — Concentrated + Hollowed', genres: ['Anime', 'Action', 'Adventure'], description: 'Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Japanese audio with English subtitles preferred; dual audio and English dub alternatives. Four arcs in guide order. No API keys.' };
+  await write('manifest.json', { id: 'community.bleach.paced.keyless', version: '1.0.1', name: 'Concentrated + Hollowed Bleach', description: summary.description, types: ['series'], idPrefixes: ['cb_'], resources: ['catalog', { name: 'meta', types: ['series'], idPrefixes: ['cb_'] }, { name: 'stream', types: ['series'], idPrefixes: ['cb_'] }], catalogs: [{ type: 'series', id: 'bleach_paced_catalog', name: 'Bleach Paced' }], behaviorHints: { adult: false, p2p: false, configurable: false } });
   await write('catalog/series/bleach_paced_catalog.json', { metas: [summary], cacheMaxAge: 3600 });
   await write(`meta/series/${SERIES}.json`, { meta: { ...summary, videos: catalog.videos }, cacheMaxAge: 3600 });
-  for (const [id, response] of Object.entries(catalog.responses)) await write(`stream/series/${id}.json`, { ...response, cacheMaxAge: 3600 });
+  for (const [id, response] of Object.entries(catalog.responses)) await write(`stream/series/${id}.json`, { ...response, cacheMaxAge: 300 });
   await write('episode-map.json', catalog.episodeMap);
   await write('build-report.json', { builtAt: data.fetchedAt, offline, seasonCounts: catalog.seasonCounts, episodeCount: catalog.videos.length, sources: data.checks, warnings: data.warnings, note: 'Source discovery is checked; video playback is not guaranteed by metadata generation.' });
   await write('.nojekyll', '');

@@ -55,16 +55,27 @@ test('folder HTML decodes entities, finds nested folders, and rejects login page
   assert.throws(() => parseSheet('<html>Sign in</html>', 'cb'));
 });
 
-test('streams encode nested paths and keep all Drive variants before backups', () => {
+test('Japanese subbed streams precede English dub regardless of provider', () => {
   const files = [
     { provider: 'pixeldrain', group: 'hb2-sub', name: 'Hollowed Bleach 22 - A & B (sub).mp4', path: '/publicdir/Arc #1/A & B.mp4' },
     { provider: 'drive', group: 'hb2-dub', name: 'Hollowed Bleach 22 - A (dub).mp4', id: 'public_drive_id_dub' },
     { provider: 'drive', group: 'hb2-sub', name: 'Hollowed Bleach 22 - A (sub).mp4', id: 'public_drive_id_sub' },
   ].map(identifyFile);
   const streams = makeStreams(files);
-  assert.match(streams[0].name, /Google Drive \[Sub MP4\]/);
-  assert.match(streams[1].name, /Google Drive \[Dub MP4\]/);
-  assert.match(streams[2].url, /Arc%20%231\/A%20%26%20B.mp4/);
+  assert.match(streams[0].name, /Japanese audio \+ English subtitles.*Google Drive \[Sub MP4\]/);
+  assert.match(streams[1].url, /Arc%20%231\/A%20%26%20B.mp4/);
+  assert.match(streams[2].name, /English dub.*Google Drive \[Dub MP4\]/);
+  assert.equal(streams[0].behaviorHints.bingeGroup, 'bleach-paced-sub-drive');
+  assert.equal(streams[0].behaviorHints.notWebReady, false);
+});
+
+test('CB offers Japanese hardsub first and preserves correctly flagged MKV and dub alternatives', () => {
+  const streams = buildCatalog(sheets(), snapshot.files).responses.cb_s01e01.streams;
+  assert.match(streams[0].name, /^Japanese audio \+ English subtitles/);
+  assert.match(streams[0].url, /pixeldrain/);
+  const mkv = streams.find(s => /\.mkv$/.test(s.behaviorHints.filename));
+  assert.equal(mkv.behaviorHints.notWebReady, true);
+  assert(streams.some(s => /^English dub/.test(s.name)));
 });
 
 test('CB comparison clips cannot be mistaken for full episode streams', () => {

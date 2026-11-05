@@ -2,7 +2,13 @@
 
 A static, keyless Stremio add-on combining Gabby's Concentrated Bleach and Knight's Hollowed Bleach in the order specified by the [Bleach Watch Guide V2](https://docs.google.com/presentation/d/1Tkt-5lpdhNevAMtIy-S4uQ9NsskNZLzZ483JInqMTr8/edit).
 
-Google Drive is the primary source. Pixeldrain is the backup. No Google API key, paid server, personal secret, or runtime backend is needed. The repository contains metadata and public links, not video files.
+Japanese audio with English subtitles is the preferred option. Dual-audio MKVs and the English dub remain available. Google Drive is preferred within each language option, with Pixeldrain supplying the dedicated subbed MP4 when needed. No Google API key, paid server, personal secret, or runtime backend is needed. The repository contains metadata and public links, not video files.
+
+## Nuvio: Japanese audio and English subtitles
+
+Choose **Japanese audio + English subtitles**. Its MP4 has English subtitles burned into the picture; no subtitle menu or separate subtitle download is needed. This option appears first, and automatic next-episode playback groups it separately from the English dub.
+
+For the **Dual audio + embedded subtitles** MKV option, choose Japanese in the player's audio menu and the full English dialogue subtitle track, rather than a signs-and-songs-only track. MKVs are correctly marked as requiring native playback. The add-on cannot force a player's internal audio/subtitle selection; that setting belongs to Nuvio. After updating from version 1.0.0, stop playback and reopen the episode's source list; reinstall or refresh the add-on if Nuvio retains the old source list.
 
 ## Put it online
 
@@ -52,7 +58,7 @@ The requested `cb_s01e01` style IDs follow sequential positions. When upstream e
 
 ## Stream behavior and reliability
 
-Drive streams use exactly `https://drive.usercontent.google.com/download?id=FILE_ID&export=download&confirm=t`. They are listed before Pixeldrain. Public sharing does not guarantee unlimited traffic or permanent direct playback: Drive may return quota, consent, or permission pages. Use a backup if that happens. MKV, dual audio, and styled ASS subtitles depend on the player; a native Stremio player or suitable external player may be required. The requested `notWebReady: false` hint is emitted, but it cannot add browser codec support.
+Drive streams use exactly `https://drive.usercontent.google.com/download?id=FILE_ID&export=download&confirm=t`. Japanese subbed MP4s appear first, followed by dual audio and English dub alternatives. Public sharing does not guarantee unlimited traffic or permanent direct playback: Drive may return quota, consent, or permission pages. Use another provider if that happens. MKV, dual audio, and styled ASS subtitles depend on the player; a native player may be required. MKV streams use `notWebReady: true` and MP4 streams use `false`, following the Stremio protocol. Separate binge groups preserve the chosen language variant across episodes.
 
 The workflow keeps a cache of public metadata. Source failures fall back to saved data and are recorded in `dist/build-report.json`; invalid or incomplete catalogs fail the build before replacing existing output. Only `dist/` is deployed to Pages. Failed updates leave the previous deployment online. External playback is checked separately from metadata correctness.
 

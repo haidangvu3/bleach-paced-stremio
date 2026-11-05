@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "04 - Bad Standard.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1yxkRSFJf14Wu9QMgKl381YE_Pq_7-TdO&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "04 - Bad Standard.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "04 - Bad Standard (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "04 - Bad Standard (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "04 - Bad Standard (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/04%20-%20Bad%20Standard%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "04 - Bad Standard (Sub).mp4"
+        "filename": "04 - Bad Standard (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "04 - Bad Standard (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "04 - Bad Standard.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "04 - Bad Standard.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1yxkRSFJf14Wu9QMgKl381YE_Pq_7-TdO&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "04 - Bad Standard.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "04 - Bad Standard (Dub).mp4\nEnglish audio.",
+      "description": "04 - Bad Standard (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/04%20-%20Bad%20Standard%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "04 - Bad Standard (Dub).mp4"
+        "filename": "04 - Bad Standard (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

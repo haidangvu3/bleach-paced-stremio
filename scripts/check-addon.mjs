@@ -10,12 +10,12 @@ for (const video of meta.videos) {
   if (!/^cb_s\d{2}e\d{2,}$/.test(video.id) || ids.has(video.id)) throw new Error('Invalid or duplicate video ID');
   ids.add(video.id);
   const { streams } = await json(`stream/series/${video.id}.json`);
-  if (!streams.length || !streams[0].url.startsWith('https://drive.usercontent.google.com/')) throw new Error(`No primary stream: ${video.id}`);
-  let backup = false;
+  if (!streams.length || !streams.some(s => s.url.startsWith('https://drive.usercontent.google.com/'))) throw new Error(`No Drive option: ${video.id}`);
+  if (streams.some(s => s.name.startsWith('Japanese audio')) && !streams[0].name.startsWith('Japanese audio')) throw new Error(`Japanese subbed stream is not preferred: ${video.id}`);
   for (const stream of streams) {
     const url = new URL(stream.url);
-    if (url.hostname === 'pixeldrain.com') backup = true;
-    else if (backup) throw new Error('Drive stream follows a backup');
+    const mkv = /\.mkv$/i.test(stream.behaviorHints.filename);
+    if (stream.behaviorHints.notWebReady !== mkv) throw new Error('Incorrect container playback hint');
     if (url.hostname === 'drive.usercontent.google.com' && (url.searchParams.get('confirm') !== 't' || url.searchParams.has('key'))) throw new Error('Incorrect keyless Drive URL');
     if (/key=|token=|authorization=/i.test(url.search)) throw new Error('Credential in generated URL');
   }

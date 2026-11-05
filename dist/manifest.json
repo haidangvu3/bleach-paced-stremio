@@ -1,8 +1,8 @@
 {
   "id": "community.bleach.paced.keyless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Concentrated + Hollowed Bleach",
-  "description": "Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Four arcs in guide order; Google Drive first, Pixeldrain backups. Dual audio where available.",
+  "description": "Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Japanese audio with English subtitles preferred; dual audio and English dub alternatives. Four arcs in guide order. No API keys.",
   "types": [
     "series"
   ],

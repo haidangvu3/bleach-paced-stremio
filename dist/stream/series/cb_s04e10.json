@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "Hollowed Bleach 60 - The Deathberry Returns 2.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1OORcXlbkjJDh9fIgbeYptzBsMT6n-xcM&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "Hollowed Bleach 60 - The Deathberry Returns 2 (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "Hollowed Bleach 60 - The Deathberry Returns 2 (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "Hollowed Bleach 60 - The Deathberry Returns 2 (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/2%20-%20Lost%20Agent/Hollowed%20Bleach%2060%20-%20The%20Deathberry%20Returns%202%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2 (Sub).mp4"
+        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2 (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "Hollowed Bleach 60 - The Deathberry Returns 2 (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "Hollowed Bleach 60 - The Deathberry Returns 2.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "Hollowed Bleach 60 - The Deathberry Returns 2.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1OORcXlbkjJDh9fIgbeYptzBsMT6n-xcM&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "Hollowed Bleach 60 - The Deathberry Returns 2 (Dub).mp4\nEnglish audio.",
+      "description": "Hollowed Bleach 60 - The Deathberry Returns 2 (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/2%20-%20Lost%20Agent/Hollowed%20Bleach%2060%20-%20The%20Deathberry%20Returns%202%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2 (Dub).mp4"
+        "filename": "Hollowed Bleach 60 - The Deathberry Returns 2 (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

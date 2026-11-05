@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "48 - Eagle Without Wings.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=10LYvjmct34NsIQaNFDOA1IhG_qZvXRLS&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "48 - Eagle Without Wings.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "48 - Eagle Without Wings (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "48 - Eagle Without Wings (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "48 - Eagle Without Wings (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/48%20-%20Eagle%20Without%20Wings%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "48 - Eagle Without Wings (Sub).mp4"
+        "filename": "48 - Eagle Without Wings (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "48 - Eagle Without Wings (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "48 - Eagle Without Wings.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "48 - Eagle Without Wings.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=10LYvjmct34NsIQaNFDOA1IhG_qZvXRLS&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "48 - Eagle Without Wings.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "48 - Eagle Without Wings (Dub).mp4\nEnglish audio.",
+      "description": "48 - Eagle Without Wings (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/48%20-%20Eagle%20Without%20Wings%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "48 - Eagle Without Wings (Dub).mp4"
+        "filename": "48 - Eagle Without Wings (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

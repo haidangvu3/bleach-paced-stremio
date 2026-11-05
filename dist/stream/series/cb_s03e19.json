@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "52 - The Slashing Opera.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1F8Sdnl1FcbaRQ3pCgyiCY764pmQNy4rV&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "52 - The Slashing Opera.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "52 - The Slashing Opera (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "52 - The Slashing Opera (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "52 - The Slashing Opera (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/52%20-%20The%20Slashing%20Opera%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "52 - The Slashing Opera (Sub).mp4"
+        "filename": "52 - The Slashing Opera (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "52 - The Slashing Opera (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "52 - The Slashing Opera.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "52 - The Slashing Opera.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1F8Sdnl1FcbaRQ3pCgyiCY764pmQNy4rV&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "52 - The Slashing Opera.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "52 - The Slashing Opera (Dub).mp4\nEnglish audio.",
+      "description": "52 - The Slashing Opera (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/52%20-%20The%20Slashing%20Opera%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "52 - The Slashing Opera (Dub).mp4"
+        "filename": "52 - The Slashing Opera (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

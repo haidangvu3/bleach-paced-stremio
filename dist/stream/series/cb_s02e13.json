@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "22 - Black and White.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1KRyNcfkZjJqBS1FN56HWvIqQZGm0s1ji&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "22 - Black and White.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "22 - Black and White (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "22 - Black and White (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "22 - Black and White (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/22%20-%20Black%20and%20White%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "22 - Black and White (Sub).mp4"
+        "filename": "22 - Black and White (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "22 - Black and White (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "22 - Black and White.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "22 - Black and White.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1KRyNcfkZjJqBS1FN56HWvIqQZGm0s1ji&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "22 - Black and White.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "22 - Black and White (Dub).mp4\nEnglish audio.",
+      "description": "22 - Black and White (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/22%20-%20Black%20and%20White%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "22 - Black and White (Dub).mp4"
+        "filename": "22 - Black and White (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "Hollowed Bleach SP01 - Memories of Nobody.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1S4Zx8Y2wcnJGO3rBy9RInXBnb0gEEyoY&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "Hollowed Bleach SP01 - Memories of Nobody.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "Hollowed Bleach SP01 - Memories of Nobody (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "Hollowed Bleach SP01 - Memories of Nobody (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "Hollowed Bleach SP01 - Memories of Nobody (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/0%20-%20Specials/Hollowed%20Bleach%20SP01%20-%20Memories%20of%20Nobody%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "Hollowed Bleach SP01 - Memories of Nobody (Sub).mp4"
+        "filename": "Hollowed Bleach SP01 - Memories of Nobody (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "Hollowed Bleach SP01 - Memories of Nobody (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "Hollowed Bleach SP01 - Memories of Nobody.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "Hollowed Bleach SP01 - Memories of Nobody.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1S4Zx8Y2wcnJGO3rBy9RInXBnb0gEEyoY&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "Hollowed Bleach SP01 - Memories of Nobody.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "Hollowed Bleach SP01 - Memories of Nobody (Dub).mp4\nEnglish audio.",
+      "description": "Hollowed Bleach SP01 - Memories of Nobody (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/0%20-%20Specials/Hollowed%20Bleach%20SP01%20-%20Memories%20of%20Nobody%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "Hollowed Bleach SP01 - Memories of Nobody (Dub).mp4"
+        "filename": "Hollowed Bleach SP01 - Memories of Nobody (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

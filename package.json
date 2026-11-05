@@ -1,6 +1,6 @@
 {
   "name": "bleach-paced-stremio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Keyless static Stremio catalog combining Concentrated and Hollowed Bleach",
   "type": "module",

@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "57 - Devour the Flesh, Alone.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1tnegRzXPz-woe6T7GR_RzSsHnNqOVyxF&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "57 - Devour the Flesh, Alone.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "57 - Devour the Flesh, Alone (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "57 - Devour the Flesh, Alone (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "57 - Devour the Flesh, Alone (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/57%20-%20Devour%20the%20Flesh%2C%20Alone%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "57 - Devour the Flesh, Alone (Sub).mp4"
+        "filename": "57 - Devour the Flesh, Alone (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "57 - Devour the Flesh, Alone (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "57 - Devour the Flesh, Alone.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "57 - Devour the Flesh, Alone.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1tnegRzXPz-woe6T7GR_RzSsHnNqOVyxF&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "57 - Devour the Flesh, Alone.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "57 - Devour the Flesh, Alone (Dub).mp4\nEnglish audio.",
+      "description": "57 - Devour the Flesh, Alone (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/57%20-%20Devour%20the%20Flesh%2C%20Alone%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "57 - Devour the Flesh, Alone (Dub).mp4"
+        "filename": "57 - Devour the Flesh, Alone (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

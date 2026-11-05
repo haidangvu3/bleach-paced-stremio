@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "05 - June 17th -memories in the rain-.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1CpPdN3OGmDSEXfJsVNAJyy9lM-wlFxX0&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "05 - June 17th -memories in the rain-.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "05 - June 17th -memories in the rain- (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "05 - June 17th -memories in the rain- (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "05 - June 17th -memories in the rain- (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/05%20-%20June%2017th%20-memories%20in%20the%20rain-%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "05 - June 17th -memories in the rain- (Sub).mp4"
+        "filename": "05 - June 17th -memories in the rain- (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "05 - June 17th -memories in the rain- (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "05 - June 17th -memories in the rain-.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "05 - June 17th -memories in the rain-.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1CpPdN3OGmDSEXfJsVNAJyy9lM-wlFxX0&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "05 - June 17th -memories in the rain-.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "05 - June 17th -memories in the rain- (Dub).mp4\nEnglish audio.",
+      "description": "05 - June 17th -memories in the rain- (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/05%20-%20June%2017th%20-memories%20in%20the%20rain-%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "05 - June 17th -memories in the rain- (Dub).mp4"
+        "filename": "05 - June 17th -memories in the rain- (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }

@@ -1,32 +1,38 @@
 {
   "streams": [
     {
-      "name": "Google Drive [Dual Audio MKV]",
-      "title": "20 - Spring, Spring, Meets the Tiger.mkv",
-      "url": "https://drive.usercontent.google.com/download?id=1BaoVYGv4mbauS2nkp55aBr7WDkdlJmWW&export=download&confirm=t",
-      "behaviorHints": {
-        "notWebReady": false,
-        "filename": "20 - Spring, Spring, Meets the Tiger.mkv"
-      }
-    },
-    {
-      "name": "Pixeldrain Backup [Sub]",
-      "title": "20 - Spring, Spring, Meets the Tiger (Sub).mp4",
+      "name": "Japanese audio + English subtitles · Pixeldrain [Sub MP4]",
+      "title": "20 - Spring, Spring, Meets the Tiger (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
+      "description": "20 - Spring, Spring, Meets the Tiger (Sub).mp4\nEnglish subtitles are burned into the video; no subtitle switch needed.",
       "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/20%20-%20Spring%2C%20Spring%2C%20Meets%20the%20Tiger%20(Sub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "20 - Spring, Spring, Meets the Tiger (Sub).mp4"
+        "filename": "20 - Spring, Spring, Meets the Tiger (Sub).mp4",
+        "bingeGroup": "bleach-paced-sub-pixeldrain"
       }
     },
     {
-      "name": "Pixeldrain Backup [Dub]",
-      "title": "20 - Spring, Spring, Meets the Tiger (Dub).mp4",
+      "name": "Dual audio + embedded subtitles · Google Drive [Dual Audio MKV]",
+      "title": "20 - Spring, Spring, Meets the Tiger.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "description": "20 - Spring, Spring, Meets the Tiger.mkv\nFull-quality MKV. Select Japanese audio and the full English subtitle track in your player.",
+      "url": "https://drive.usercontent.google.com/download?id=1BaoVYGv4mbauS2nkp55aBr7WDkdlJmWW&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": true,
+        "filename": "20 - Spring, Spring, Meets the Tiger.mkv",
+        "bingeGroup": "bleach-paced-dual-audio-drive"
+      }
+    },
+    {
+      "name": "English dub · Pixeldrain [Dub MP4]",
+      "title": "20 - Spring, Spring, Meets the Tiger (Dub).mp4\nEnglish audio.",
+      "description": "20 - Spring, Spring, Meets the Tiger (Dub).mp4\nEnglish audio.",
       "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/20%20-%20Spring%2C%20Spring%2C%20Meets%20the%20Tiger%20(Dub).mp4",
       "behaviorHints": {
         "notWebReady": false,
-        "filename": "20 - Spring, Spring, Meets the Tiger (Dub).mp4"
+        "filename": "20 - Spring, Spring, Meets the Tiger (Dub).mp4",
+        "bingeGroup": "bleach-paced-dub-pixeldrain"
       }
     }
   ],
-  "cacheMaxAge": 3600
+  "cacheMaxAge": 300
 }
