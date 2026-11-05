@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Sub MP4]",
+      "title": "Hollowed Bleach 41 - EXecution, EXtinction (sub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1nTdUtDc05RbITs3G6drjVSUwOa_pO9Hg&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 41 - EXecution, EXtinction (sub).mp4"
+      }
+    },
+    {
+      "name": "Google Drive [Dub MP4]",
+      "title": "Hollowed Bleach 41 - EXecution, EXtinction (dub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1Rs2y4lebNLuTGfqZdODfKn-pWdrAxppJ&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 41 - EXecution, EXtinction (dub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "Hollowed Bleach 41 - EXecution, EXtinction.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2041%20-%20EXecution%2C%20EXtinction.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 41 - EXecution, EXtinction.mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "Hollowed Bleach 41 - EXecution, EXtinction.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2041%20-%20EXecution%2C%20EXtinction.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 41 - EXecution, EXtinction.mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

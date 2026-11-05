@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "35 - AND THE RAIN LEFT OFF.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=122tnK-lOlGuebi9tcaXme5BcXQ-JYnOf&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35 - AND THE RAIN LEFT OFF.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "35 - AND THE RAIN LEFT OFF (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/35%20-%20AND%20THE%20RAIN%20LEFT%20OFF%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35 - AND THE RAIN LEFT OFF (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "35 - AND THE RAIN LEFT OFF (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/35%20-%20AND%20THE%20RAIN%20LEFT%20OFF%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35 - AND THE RAIN LEFT OFF (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

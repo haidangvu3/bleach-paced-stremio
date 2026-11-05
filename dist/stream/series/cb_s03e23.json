@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "56 - The Monster.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=13YTEcXzu3y3gMuKtspnbpL07vOEE2hO1&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "56 - The Monster.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "56 - The Monster (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/56%20-%20The%20Monster%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "56 - The Monster (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "56 - The Monster (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/56%20-%20The%20Monster%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "56 - The Monster (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

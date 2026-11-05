@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "15 - INTRUDERZ.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1n-feR4HVcGQPzHK80Ljz4UR3NPbCYW4Y&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "15 - INTRUDERZ.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "15 - INTRUDERZ (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/15%20-%20INTRUDERZ%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "15 - INTRUDERZ (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "15 - INTRUDERZ (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/15%20-%20INTRUDERZ%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "15 - INTRUDERZ (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

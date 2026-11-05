@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "25 - Insanity and Genius.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1WXk8pWoL8ZfApIFd3ua-s0YYiPQgJmG3&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "25 - Insanity and Genius.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "25 - Insanity and Genius (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/25%20-%20Insanity%20and%20Genius%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "25 - Insanity and Genius (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "25 - Insanity and Genius (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/25%20-%20Insanity%20and%20Genius%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "25 - Insanity and Genius (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

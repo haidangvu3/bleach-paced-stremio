@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Sub MP4]",
+      "title": "Hollowed Bleach 38 - Grinning Revengers (sub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1sv8WE9XoG2-hOFcdrBDR1krsvIYyYtw6&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 38 - Grinning Revengers (sub).mp4"
+      }
+    },
+    {
+      "name": "Google Drive [Dub MP4]",
+      "title": "Hollowed Bleach 38 - Grinning Revengers (dub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1Va693Tl2LAQ9J59P5sKpnF120lHlL9Yp&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 38 - Grinning Revengers (dub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "Hollowed Bleach 38 - Grinning Revengers.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2038%20-%20Grinning%20Revengers.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 38 - Grinning Revengers.mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "Hollowed Bleach 38 - Grinning Revengers.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2038%20-%20Grinning%20Revengers.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 38 - Grinning Revengers.mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

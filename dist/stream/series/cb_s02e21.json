@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "29 - Bite at the Moon.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=18iH8OWFKFf_cnN03Ef8iHTsK5kLHaPow&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "29 - Bite at the Moon.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "29 - Bite at the Moon (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/29%20-%20Bite%20at%20the%20Moon%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "29 - Bite at the Moon (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "29 - Bite at the Moon (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/29%20-%20Bite%20at%20the%20Moon%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "29 - Bite at the Moon (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "33 - Black Moon Rising.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1l3iQp5NL_OeX8BbA4taXrwe6tSQ88_2T&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "33 - Black Moon Rising.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "33 - Black Moon Rising (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/33%20-%20Black%20Moon%20Rising%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "33 - Black Moon Rising (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "33 - Black Moon Rising (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/33%20-%20Black%20Moon%20Rising%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "33 - Black Moon Rising (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

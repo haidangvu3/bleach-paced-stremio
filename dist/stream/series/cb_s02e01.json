@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "10 - The Death Trilogy Overture.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1xcDEcKrhHV9UQXq2SOEaI2Rgh4zwaGl_&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "10 - The Death Trilogy Overture.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "10 - The Death Trilogy Overture (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/10%20-%20The%20Death%20Trilogy%20Overture%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "10 - The Death Trilogy Overture (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "10 - The Death Trilogy Overture (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/10%20-%20The%20Death%20Trilogy%20Overture%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "10 - The Death Trilogy Overture (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "cb_s01e01",
+    "season": 1,
+    "episode": 1,
+    "project": "cb",
+    "originalEpisode": "01",
+    "chapters": "001",
+    "title": "Death and Strawberry",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e02",
+    "season": 1,
+    "episode": 2,
+    "project": "cb",
+    "originalEpisode": "02",
+    "chapters": "002-006",
+    "title": "Starter",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e03",
+    "season": 1,
+    "episode": 3,
+    "project": "cb",
+    "originalEpisode": "03",
+    "chapters": "007-012",
+    "title": "The Pink-Cheeked Cockatiel",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e04",
+    "season": 1,
+    "episode": 4,
+    "project": "cb",
+    "originalEpisode": "04",
+    "chapters": "013-017",
+    "title": "Bad Standard",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e05",
+    "season": 1,
+    "episode": 5,
+    "project": "cb",
+    "originalEpisode": "05",
+    "chapters": "018-025",
+    "title": "June 17th -memories in the rain-",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e06",
+    "season": 1,
+    "episode": 6,
+    "project": "cb",
+    "originalEpisode": "06",
+    "chapters": "027-032",
+    "title": "Spirits AREN'T Always With Us",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e07",
+    "season": 1,
+    "episode": 7,
+    "project": "cb",
+    "originalEpisode": "07",
+    "chapters": "033-036",
+    "title": "Quincy Archer Hates You",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e08",
+    "season": 1,
+    "episode": 8,
+    "project": "cb",
+    "originalEpisode": "08",
+    "chapters": "036-043",
+    "title": "Crossing the Rubicon",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s01e09",
+    "season": 1,
+    "episode": 9,
+    "project": "cb",
+    "originalEpisode": "09",
+    "chapters": "044-050",
+    "title": "Menos Grande",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e01",
+    "season": 2,
+    "episode": 1,
+    "project": "cb",
+    "originalEpisode": "10",
+    "chapters": "026, 051-057",
+    "title": "The Death Trilogy Overture",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e02",
+    "season": 2,
+    "episode": 2,
+    "project": "cb",
+    "originalEpisode": "11",
+    "chapters": "057-062",
+    "title": "blank",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e03",
+    "season": 2,
+    "episode": 3,
+    "project": "cb",
+    "originalEpisode": "12",
+    "chapters": "062-067",
+    "title": "The Blade and Me",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e04",
+    "season": 2,
+    "episode": 4,
+    "project": "cb",
+    "originalEpisode": "13",
+    "chapters": "067-075",
+    "title": "Our Last Summer Vacation",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e05",
+    "season": 2,
+    "episode": 5,
+    "project": "cb",
+    "originalEpisode": "14",
+    "chapters": "076-079",
+    "title": "The Shooting Star Project",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e06",
+    "season": 2,
+    "episode": 6,
+    "project": "cb",
+    "originalEpisode": "15",
+    "chapters": "080-085",
+    "title": "INTRUDERZ",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e07",
+    "season": 2,
+    "episode": 7,
+    "project": "cb",
+    "originalEpisode": "16",
+    "chapters": "086-090",
+    "title": "So Unlucky We Are",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e08",
+    "season": 2,
+    "episode": 8,
+    "project": "cb",
+    "originalEpisode": "17",
+    "chapters": "091-094",
+    "title": "Steer for the Star",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e09",
+    "season": 2,
+    "episode": 9,
+    "project": "cb",
+    "originalEpisode": "18",
+    "chapters": "095-098",
+    "title": "A Star and a Stray Dog",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e10",
+    "season": 2,
+    "episode": 10,
+    "project": "cb",
+    "originalEpisode": "19",
+    "chapters": "099-101",
+    "title": "Flower on the Precipice",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e11",
+    "season": 2,
+    "episode": 11,
+    "project": "cb",
+    "originalEpisode": "20",
+    "chapters": "102-103, 105-108",
+    "title": "Spring, Spring, Meets the Tiger",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e12",
+    "season": 2,
+    "episode": 12,
+    "project": "cb",
+    "originalEpisode": "21",
+    "chapters": "104-105, 108-110",
+    "title": "The Undead",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e13",
+    "season": 2,
+    "episode": 13,
+    "project": "cb",
+    "originalEpisode": "22",
+    "chapters": "110-115",
+    "title": "Black and White",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e14",
+    "season": 2,
+    "episode": 14,
+    "project": "cb",
+    "originalEpisode": "23",
+    "chapters": "115-119",
+    "title": "Remnant",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e15",
+    "season": 2,
+    "episode": 15,
+    "project": "cb",
+    "originalEpisode": "24",
+    "chapters": "118-121",
+    "title": "In Sane We Trust",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e16",
+    "season": 2,
+    "episode": 16,
+    "project": "cb",
+    "originalEpisode": "25",
+    "chapters": "122-127",
+    "title": "Insanity and Genius",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e17",
+    "season": 2,
+    "episode": 17,
+    "project": "cb",
+    "originalEpisode": "26",
+    "chapters": "127-132, -17",
+    "title": "The Straying Stars",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e18",
+    "season": 2,
+    "episode": 18,
+    "project": "cb",
+    "originalEpisode": "27",
+    "chapters": "128, 133-136",
+    "title": "memories in the rain2",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e19",
+    "season": 2,
+    "episode": 19,
+    "project": "cb",
+    "originalEpisode": "27.5",
+    "chapters": "088.5, 124-158",
+    "title": "Meanwhile, in the Living World",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e20",
+    "season": 2,
+    "episode": 20,
+    "project": "cb",
+    "originalEpisode": "28",
+    "chapters": "137-139",
+    "title": "Surrounding Clutch",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e21",
+    "season": 2,
+    "episode": 21,
+    "project": "cb",
+    "originalEpisode": "29",
+    "chapters": "140-145",
+    "title": "Bite at the Moon",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e22",
+    "season": 2,
+    "episode": 22,
+    "project": "cb",
+    "originalEpisode": "30",
+    "chapters": "145-150",
+    "title": "Countdown to the End",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e23",
+    "season": 2,
+    "episode": 23,
+    "project": "cb",
+    "originalEpisode": "31",
+    "chapters": "151-156",
+    "title": "The Deathberry Returns",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e24",
+    "season": 2,
+    "episode": 24,
+    "project": "cb",
+    "originalEpisode": "32",
+    "chapters": "154, 157-159",
+    "title": "Cat and Hornet",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e25",
+    "season": 2,
+    "episode": 25,
+    "project": "cb",
+    "originalEpisode": "33",
+    "chapters": "160-167",
+    "title": "Black Moon Rising",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e26",
+    "season": 2,
+    "episode": 26,
+    "project": "cb",
+    "originalEpisode": "34",
+    "chapters": "167-178",
+    "title": "end of hypnosis",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e27",
+    "season": 2,
+    "episode": 27,
+    "project": "cb",
+    "originalEpisode": "35",
+    "chapters": "179-182",
+    "title": "AND THE RAIN LEFT OFF",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s02e28",
+    "season": 2,
+    "episode": 28,
+    "project": "cb",
+    "originalEpisode": "35.5",
+    "chapters": "0 side A + side B",
+    "title": "the rotator / the sand",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e01",
+    "season": 3,
+    "episode": 1,
+    "project": "cb",
+    "originalEpisode": "36",
+    "chapters": "183-188",
+    "title": "Hush",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e02",
+    "season": 3,
+    "episode": 2,
+    "project": "cb",
+    "originalEpisode": "37",
+    "chapters": "189-194",
+    "title": "Conquistadores",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e03",
+    "season": 3,
+    "episode": 3,
+    "project": "cb",
+    "originalEpisode": "38",
+    "chapters": "195-199",
+    "title": "Death and Strawberry (Reprise)",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e04",
+    "season": 3,
+    "episode": 4,
+    "project": "cb",
+    "originalEpisode": "39",
+    "chapters": "200-203",
+    "title": "Night of Sledgehammer",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e05",
+    "season": 3,
+    "episode": 5,
+    "project": "cb",
+    "originalEpisode": "40",
+    "chapters": "203-206",
+    "title": "¡Mala Suerte!",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e06",
+    "season": 3,
+    "episode": 6,
+    "project": "cb",
+    "originalEpisode": "41",
+    "chapters": "206-213",
+    "title": "Turn the True Power On",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e07",
+    "season": 3,
+    "episode": 7,
+    "project": "cb",
+    "originalEpisode": "42",
+    "chapters": "214-217",
+    "title": "Immanent God Blues",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e08",
+    "season": 3,
+    "episode": 8,
+    "project": "cb",
+    "originalEpisode": "43",
+    "chapters": "217-222",
+    "title": "No Shaking Throne",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e09",
+    "season": 3,
+    "episode": 9,
+    "project": "cb",
+    "originalEpisode": "44",
+    "chapters": "222-226",
+    "title": "Slip Into My Barrier",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e10",
+    "season": 3,
+    "episode": 10,
+    "project": "cb",
+    "originalEpisode": "45",
+    "chapters": "227-229",
+    "title": "The Swordless Soldier",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e11",
+    "season": 3,
+    "episode": 11,
+    "project": "hb2",
+    "originalEpisode": "SP01",
+    "chapters": "N/A",
+    "title": "Memories of Nobody",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e12",
+    "season": 3,
+    "episode": 12,
+    "project": "cb",
+    "originalEpisode": "46",
+    "chapters": "229-234",
+    "title": "The Mascaron Drive",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e13",
+    "season": 3,
+    "episode": 13,
+    "project": "cb",
+    "originalEpisode": "47",
+    "chapters": "234-237",
+    "title": "goodbye, halcyon days.",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e14",
+    "season": 3,
+    "episode": 14,
+    "project": "cb",
+    "originalEpisode": "48",
+    "chapters": "238-241",
+    "title": "Eagle Without Wings",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e15",
+    "season": 3,
+    "episode": 15,
+    "project": "cb",
+    "originalEpisode": "49",
+    "chapters": "241-245",
+    "title": "Winged Eagles",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e16",
+    "season": 3,
+    "episode": 16,
+    "project": "cb",
+    "originalEpisode": "50",
+    "chapters": "245-250",
+    "title": "United on the Desert",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e17",
+    "season": 3,
+    "episode": 17,
+    "project": "hb2",
+    "originalEpisode": "SP02",
+    "chapters": "Filler",
+    "title": "Forest of Menos",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e18",
+    "season": 3,
+    "episode": 18,
+    "project": "cb",
+    "originalEpisode": "51",
+    "chapters": "251-254",
+    "title": "Baron's Lecture Full-Course",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e19",
+    "season": 3,
+    "episode": 19,
+    "project": "cb",
+    "originalEpisode": "52",
+    "chapters": "254-259",
+    "title": "The Slashing Opera",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e20",
+    "season": 3,
+    "episode": 20,
+    "project": "cb",
+    "originalEpisode": "53",
+    "chapters": "259-263",
+    "title": "Arms of the Giant",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e21",
+    "season": 3,
+    "episode": 21,
+    "project": "cb",
+    "originalEpisode": "54",
+    "chapters": "262-269",
+    "title": "There is No Heart Without You",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e22",
+    "season": 3,
+    "episode": 22,
+    "project": "cb",
+    "originalEpisode": "55",
+    "chapters": "264-265, 269-272",
+    "title": "Don't Kill My Volupture",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e23",
+    "season": 3,
+    "episode": 23,
+    "project": "cb",
+    "originalEpisode": "56",
+    "chapters": "272-278",
+    "title": "The Monster",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e24",
+    "season": 3,
+    "episode": 24,
+    "project": "cb",
+    "originalEpisode": "57",
+    "chapters": "279-286",
+    "title": "Devour the Flesh, Alone",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s03e25",
+    "season": 3,
+    "episode": 25,
+    "project": "hb2",
+    "originalEpisode": "22",
+    "chapters": "286-292",
+    "title": "THE BAD JOKE",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e26",
+    "season": 3,
+    "episode": 26,
+    "project": "hb2",
+    "originalEpisode": "23",
+    "chapters": "292-297",
+    "title": "King of the Kill",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e27",
+    "season": 3,
+    "episode": 27,
+    "project": "hb2",
+    "originalEpisode": "24",
+    "chapters": "298-303",
+    "title": "INTRUDERZ",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e28",
+    "season": 3,
+    "episode": 28,
+    "project": "hb2",
+    "originalEpisode": "25",
+    "chapters": "304-308",
+    "title": "Not Perfect is GOoD",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e29",
+    "season": 3,
+    "episode": 29,
+    "project": "hb2",
+    "originalEpisode": "26",
+    "chapters": "309-315",
+    "title": "TO CLOSE YOUR WORLD",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e30",
+    "season": 3,
+    "episode": 30,
+    "project": "hb2",
+    "originalEpisode": "27",
+    "chapters": "-108 to -104",
+    "title": "Turn Back the Pendulum",
+    "streamCount": 8
+  },
+  {
+    "id": "cb_s03e31",
+    "season": 3,
+    "episode": 31,
+    "project": "hb2",
+    "originalEpisode": "28",
+    "chapters": "-104 to -101",
+    "title": "The Pendulum Keeps Swinging",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e32",
+    "season": 3,
+    "episode": 32,
+    "project": "hb2",
+    "originalEpisode": "29",
+    "chapters": "-100 to -97",
+    "title": "Let Stop the Pendulum",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e33",
+    "season": 3,
+    "episode": 33,
+    "project": "hb2",
+    "originalEpisode": "29.5",
+    "chapters": "0.8",
+    "title": "a wonderful error",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e34",
+    "season": 3,
+    "episode": 34,
+    "project": "hb2",
+    "originalEpisode": "30",
+    "chapters": "316-319",
+    "title": "Six Hearts Will Beat As One",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e35",
+    "season": 3,
+    "episode": 35,
+    "project": "hb2",
+    "originalEpisode": "31",
+    "chapters": "320-324",
+    "title": "Ants & Dragons",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e36",
+    "season": 3,
+    "episode": 36,
+    "project": "hb2",
+    "originalEpisode": "32",
+    "chapters": "324-329",
+    "title": "Knockdown Monsters",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e37",
+    "season": 3,
+    "episode": 37,
+    "project": "hb2",
+    "originalEpisode": "33",
+    "chapters": "330-333",
+    "title": "Stingy Stinger",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e38",
+    "season": 3,
+    "episode": 38,
+    "project": "hb2",
+    "originalEpisode": "34",
+    "chapters": "333-339",
+    "title": "The Deathbringer Numbers",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e39",
+    "season": 3,
+    "episode": 39,
+    "project": "hb2",
+    "originalEpisode": "35",
+    "chapters": "340-345",
+    "title": "The Sin",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e40",
+    "season": 3,
+    "episode": 40,
+    "project": "hb2",
+    "originalEpisode": "36",
+    "chapters": "346-354",
+    "title": "heart",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e41",
+    "season": 3,
+    "episode": 41,
+    "project": "hb2",
+    "originalEpisode": "37",
+    "chapters": "354-359, -16",
+    "title": "Tyrant of Skulls",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e42",
+    "season": 3,
+    "episode": 42,
+    "project": "hb2",
+    "originalEpisode": "38",
+    "chapters": "359-364",
+    "title": "Grinning Revengers",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e43",
+    "season": 3,
+    "episode": 43,
+    "project": "hb2",
+    "originalEpisode": "39",
+    "chapters": "365-371",
+    "title": "Spit On Your Own God",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e44",
+    "season": 3,
+    "episode": 44,
+    "project": "hb2",
+    "originalEpisode": "40",
+    "chapters": "372-375",
+    "title": "Wolves Ain't Howl Alone",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e45",
+    "season": 3,
+    "episode": 45,
+    "project": "hb2",
+    "originalEpisode": "41",
+    "chapters": "375-377",
+    "title": "EXecution, EXtinction",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e46",
+    "season": 3,
+    "episode": 46,
+    "project": "hb2",
+    "originalEpisode": "42",
+    "chapters": "378-383",
+    "title": "Devil, Devil, Devil, Devil",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e47",
+    "season": 3,
+    "episode": 47,
+    "project": "hb2",
+    "originalEpisode": "43",
+    "chapters": "383-387",
+    "title": "Vice It",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e48",
+    "season": 3,
+    "episode": 48,
+    "project": "hb2",
+    "originalEpisode": "44",
+    "chapters": "388-395",
+    "title": "The Burnout Inferno",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e49",
+    "season": 3,
+    "episode": 49,
+    "project": "hb2",
+    "originalEpisode": "45",
+    "chapters": "396-401",
+    "title": "DEICIDE",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e50",
+    "season": 3,
+    "episode": 50,
+    "project": "hb2",
+    "originalEpisode": "46",
+    "chapters": "402-407",
+    "title": "DEICIDE 2 [End of the Chrysalis Age]",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e51",
+    "season": 3,
+    "episode": 51,
+    "project": "hb2",
+    "originalEpisode": "47",
+    "chapters": "408-411",
+    "title": "DEICIDE 3 [Black + White]",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e52",
+    "season": 3,
+    "episode": 52,
+    "project": "hb2",
+    "originalEpisode": "48",
+    "chapters": "412-416",
+    "title": "DEICIDE 4 [THE END]",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e53",
+    "season": 3,
+    "episode": 53,
+    "project": "hb2",
+    "originalEpisode": "49",
+    "chapters": "417-421",
+    "title": "DEICIDE 5 [GOD IS DEAD]",
+    "streamCount": 4
+  },
+  {
+    "id": "cb_s03e54",
+    "season": 3,
+    "episode": 54,
+    "project": "hb2",
+    "originalEpisode": "50",
+    "chapters": "422-423",
+    "title": "Bleach My Soul",
+    "streamCount": 8
+  },
+  {
+    "id": "cb_s04e01",
+    "season": 4,
+    "episode": 1,
+    "project": "hb2",
+    "originalEpisode": "51",
+    "chapters": "424-427",
+    "title": "The Lost Agent",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e02",
+    "season": 4,
+    "episode": 2,
+    "project": "hb2",
+    "originalEpisode": "52",
+    "chapters": "428-431",
+    "title": "Welcome to our EXECUTION",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e03",
+    "season": 4,
+    "episode": 3,
+    "project": "hb2",
+    "originalEpisode": "53",
+    "chapters": "432-438",
+    "title": "BERRY IN THE BOX",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e04",
+    "season": 4,
+    "episode": 4,
+    "project": "hb2",
+    "originalEpisode": "54",
+    "chapters": "438-441",
+    "title": "Mute Friendship",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e05",
+    "season": 4,
+    "episode": 5,
+    "project": "hb2",
+    "originalEpisode": "55",
+    "chapters": "441-444",
+    "title": "The Rising",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e06",
+    "season": 4,
+    "episode": 6,
+    "project": "hb2",
+    "originalEpisode": "56",
+    "chapters": "445-448",
+    "title": "The Dark Beat",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e07",
+    "season": 4,
+    "episode": 7,
+    "project": "hb2",
+    "originalEpisode": "57",
+    "chapters": "448-451",
+    "title": "Welcome to our EXECUTION 2",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e08",
+    "season": 4,
+    "episode": 8,
+    "project": "hb2",
+    "originalEpisode": "58",
+    "chapters": "452-456",
+    "title": "End of Bond",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e09",
+    "season": 4,
+    "episode": 9,
+    "project": "hb2",
+    "originalEpisode": "59",
+    "chapters": "456-459",
+    "title": "Death & Strawberry 2",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e10",
+    "season": 4,
+    "episode": 10,
+    "project": "hb2",
+    "originalEpisode": "60",
+    "chapters": "460-463",
+    "title": "The Deathberry Returns 2",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e11",
+    "season": 4,
+    "episode": 11,
+    "project": "hb2",
+    "originalEpisode": "61",
+    "chapters": "464-473",
+    "title": "Pray for Predators",
+    "streamCount": 3
+  },
+  {
+    "id": "cb_s04e12",
+    "season": 4,
+    "episode": 12,
+    "project": "hb2",
+    "originalEpisode": "62",
+    "chapters": "470, 473-479",
+    "title": "Goodbye to Our Xcution",
+    "streamCount": 6
+  }
+]

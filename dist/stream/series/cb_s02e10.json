@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "19 - Flower on the Precipice.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1ZIkG7YPV7xfWbSC0O2d-lLRLJ8zx7BOn&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "19 - Flower on the Precipice.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "19 - Flower on the Precipice (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/19%20-%20Flower%20on%20the%20Precipice%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "19 - Flower on the Precipice (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "19 - Flower on the Precipice (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/19%20-%20Flower%20on%20the%20Precipice%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "19 - Flower on the Precipice (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

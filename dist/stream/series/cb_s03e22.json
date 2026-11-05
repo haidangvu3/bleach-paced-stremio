@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "55 - Don't Kill My Volupture.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=19wwNQla4FqPXOs-kXbROlyv5zSwTujsO&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "55 - Don't Kill My Volupture.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "55 - Don't Kill My Volupture (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/55%20-%20Don't%20Kill%20My%20Volupture%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "55 - Don't Kill My Volupture (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "55 - Don't Kill My Volupture (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/55%20-%20Don't%20Kill%20My%20Volupture%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "55 - Don't Kill My Volupture (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

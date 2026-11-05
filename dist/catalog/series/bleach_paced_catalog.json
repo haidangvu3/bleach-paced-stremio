@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "cb_bleach_paced",
+      "type": "series",
+      "name": "Bleach — Concentrated + Hollowed",
+      "genres": [
+        "Anime",
+        "Action",
+        "Adventure"
+      ],
+      "description": "Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Four arcs in guide order; Google Drive first, Pixeldrain backups. Dual audio where available."
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "28 - Surrounding Clutch.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=19M0PBW4TVyOBQGO14JUEYu5Gfac_ytR6&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "28 - Surrounding Clutch.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "28 - Surrounding Clutch (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/28%20-%20Surrounding%20Clutch%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "28 - Surrounding Clutch (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "28 - Surrounding Clutch (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/28%20-%20Surrounding%20Clutch%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "28 - Surrounding Clutch (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

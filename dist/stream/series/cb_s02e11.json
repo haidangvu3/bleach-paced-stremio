@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "20 - Spring, Spring, Meets the Tiger.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1BaoVYGv4mbauS2nkp55aBr7WDkdlJmWW&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "20 - Spring, Spring, Meets the Tiger.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "20 - Spring, Spring, Meets the Tiger (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/20%20-%20Spring%2C%20Spring%2C%20Meets%20the%20Tiger%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "20 - Spring, Spring, Meets the Tiger (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "20 - Spring, Spring, Meets the Tiger (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/20%20-%20Spring%2C%20Spring%2C%20Meets%20the%20Tiger%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "20 - Spring, Spring, Meets the Tiger (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

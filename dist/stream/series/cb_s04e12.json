@@ -1,0 +1,59 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "Hollowed Bleach 62 - Goodbye to Our Xcution.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1R38Zxthnw4xivBBcCN3GbAgoFkH1Jfai&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 - Goodbye to Our Xcution.mkv"
+      }
+    },
+    {
+      "name": "Google Drive [Dual Audio MKV] [HB EX - Original Anime Ending]",
+      "title": "Hollowed Bleach 62 EX - Goodbye to Our Xcution.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=13wjKWtri68MNM_BUPafeGCq1lwUZj1y1&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 EX - Goodbye to Our Xcution.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "Hollowed Bleach 62 - Goodbye to Our Xcution (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/2%20-%20Lost%20Agent/Hollowed%20Bleach%2062%20-%20Goodbye%20to%20Our%20Xcution%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 - Goodbye to Our Xcution (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "Hollowed Bleach 62 - Goodbye to Our Xcution (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/2%20-%20Lost%20Agent/Hollowed%20Bleach%2062%20-%20Goodbye%20to%20Our%20Xcution%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 - Goodbye to Our Xcution (Dub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub] [HB EX - Original Anime Ending]",
+      "title": "Hollowed Bleach 62 EX - Goodbye to Our Xcution (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/2%20-%20Lost%20Agent/EX%20Episode(s)/Hollowed%20Bleach%2062%20EX%20-%20Goodbye%20to%20Our%20Xcution%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 EX - Goodbye to Our Xcution (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub] [HB EX - Original Anime Ending]",
+      "title": "Hollowed Bleach 62 EX - Goodbye to Our Xcution (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/2%20-%20Lost%20Agent/EX%20Episode(s)/Hollowed%20Bleach%2062%20EX%20-%20Goodbye%20to%20Our%20Xcution%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 62 EX - Goodbye to Our Xcution (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

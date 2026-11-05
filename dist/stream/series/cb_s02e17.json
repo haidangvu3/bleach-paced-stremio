@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "26 - The Straying Stars.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1ZuwFf9aPdB6ZKFraKjafi7lghivVXSXO&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "26 - The Straying Stars.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "26 - The Straying Stars (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/26%20-%20The%20Straying%20Stars%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "26 - The Straying Stars (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "26 - The Straying Stars (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/26%20-%20The%20Straying%20Stars%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "26 - The Straying Stars (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

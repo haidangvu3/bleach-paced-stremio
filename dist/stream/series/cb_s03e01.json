@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "36 - Hush.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=19ig8q8vqKCnnR4SB_kbalaHb3etsYBwF&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "36 - Hush.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "36 - Hush (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/36%20-%20Hush%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "36 - Hush (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "36 - Hush (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/36%20-%20Hush%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "36 - Hush (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

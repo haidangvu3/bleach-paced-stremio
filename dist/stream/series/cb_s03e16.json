@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "50 - United on the Desert.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=18s4E5QF6ahzdyozHLaYl5tQ8nh_zYYz-&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "50 - United on the Desert.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "50 - United on the Desert (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/50%20-%20United%20on%20the%20Desert%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "50 - United on the Desert (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "50 - United on the Desert (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/50%20-%20United%20on%20the%20Desert%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "50 - United on the Desert (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

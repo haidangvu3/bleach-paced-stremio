@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "03 - The Pink-Cheeked Cockatiel.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1m0lZwQ8xFhhtaI4VIC9fTuNi7XbdFtyH&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "03 - The Pink-Cheeked Cockatiel.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "03 - The Pink-Cheeked Cockatiel (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/03%20-%20The%20Pink-Cheeked%20Cockatiel%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "03 - The Pink-Cheeked Cockatiel (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "03 - The Pink-Cheeked Cockatiel (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/03%20-%20The%20Pink-Cheeked%20Cockatiel%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "03 - The Pink-Cheeked Cockatiel (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

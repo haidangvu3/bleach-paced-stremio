@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "46 - The Mascaron Drive.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1ZFIFm6imbp1GcuzdDc36yU-stGBL9eCe&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "46 - The Mascaron Drive.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "46 - The Mascaron Drive (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/46%20-%20The%20Mascaron%20Drive%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "46 - The Mascaron Drive (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "46 - The Mascaron Drive (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/46%20-%20The%20Mascaron%20Drive%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "46 - The Mascaron Drive (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

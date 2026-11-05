@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "35.5 (0) - the rotator; the sand.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=121izOpSQfAm33ksDmHXPmFuDmnoJelNV&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35.5 (0) - the rotator; the sand.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "35.5 (0) - the rotator; the sand (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/35.5%20(0)%20-%20the%20rotator%3B%20the%20sand%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35.5 (0) - the rotator; the sand (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "35.5 (0) - the rotator; the sand (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/35.5%20(0)%20-%20the%20rotator%3B%20the%20sand%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "35.5 (0) - the rotator; the sand (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

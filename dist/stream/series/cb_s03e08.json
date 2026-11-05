@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "43 - No Shaking Throne.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1q1jjGhdOnUj1MVX7Ef2S-HcBb1r3WtwG&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "43 - No Shaking Throne.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "43 - No Shaking Throne (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/43%20-%20No%20Shaking%20Throne%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "43 - No Shaking Throne (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "43 - No Shaking Throne (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/43%20-%20No%20Shaking%20Throne%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "43 - No Shaking Throne (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

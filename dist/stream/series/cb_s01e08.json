@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "08 - Crossing the Rubicon.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1Lwkt3qSVrPuDOvMrvzqa2rOORCH8k6mQ&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "08 - Crossing the Rubicon.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "08 - Crossing the Rubicon (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/08%20-%20Crossing%20the%20Rubicon%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "08 - Crossing the Rubicon (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "08 - Crossing the Rubicon (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/08%20-%20Crossing%20the%20Rubicon%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "08 - Crossing the Rubicon (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

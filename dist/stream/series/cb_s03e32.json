@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Sub MP4]",
+      "title": "Hollowed Bleach 29 - Let Stop the Pendulum (sub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1GgD64TYCabbaAIFgHsgPh4DG132FPk73&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 29 - Let Stop the Pendulum (sub).mp4"
+      }
+    },
+    {
+      "name": "Google Drive [Dub MP4]",
+      "title": "Hollowed Bleach 29 - Let Stop the Pendulum (dub).mp4",
+      "url": "https://drive.usercontent.google.com/download?id=1oB8Zl7_XmgzR5h3ksXkHd7wkZACV9YyN&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 29 - Let Stop the Pendulum (dub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "Hollowed Bleach 29 - Let Stop the Pendulum.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2029%20-%20Let%20Stop%20the%20Pendulum.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 29 - Let Stop the Pendulum.mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "Hollowed Bleach 29 - Let Stop the Pendulum.mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/1%20-%20Arrancar/Hollowed%20Bleach%20(v2)/Hollowed%20Bleach%2029%20-%20Let%20Stop%20the%20Pendulum.mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 29 - Let Stop the Pendulum.mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

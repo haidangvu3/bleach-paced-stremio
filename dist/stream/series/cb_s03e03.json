@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "38 - Death and Strawberry (Reprise).mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1dyJ4IE5S6_RwSjensquUtjIEJyIO7cQo&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "38 - Death and Strawberry (Reprise).mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "38 - Death and Strawberry (Reprise) (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/38%20-%20Death%20and%20Strawberry%20(Reprise)%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "38 - Death and Strawberry (Reprise) (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "38 - Death and Strawberry (Reprise) (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/38%20-%20Death%20and%20Strawberry%20(Reprise)%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "38 - Death and Strawberry (Reprise) (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

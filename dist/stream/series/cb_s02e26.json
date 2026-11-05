@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "34 - end of hypnosis.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=124-K9w8qtuwgvpsgVDyrY-GwVasQFZ-_&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "34 - end of hypnosis.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "34 - end of hypnosis (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/34%20-%20end%20of%20hypnosis%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "34 - end of hypnosis (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "34 - end of hypnosis (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/34%20-%20end%20of%20hypnosis%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "34 - end of hypnosis (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

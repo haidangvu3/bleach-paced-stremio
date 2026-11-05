@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "45 - The Swordless Soldier.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1_15FLEv9MFxqN6cl0t_gM7cbH-0W0e7p&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "45 - The Swordless Soldier.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "45 - The Swordless Soldier (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/45%20-%20The%20Swordless%20Soldier%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "45 - The Swordless Soldier (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "45 - The Swordless Soldier (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/45%20-%20The%20Swordless%20Soldier%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "45 - The Swordless Soldier (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,20 @@
+{
+  "name": "bleach-paced-stremio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Keyless static Stremio catalog combining Concentrated and Hollowed Bleach",
+  "type": "module",
+  "engines": { "node": ">=20.18.1" },
+  "scripts": {
+    "build": "node scripts/build-addon.mjs",
+    "build:offline": "node scripts/build-addon.mjs --offline",
+    "test": "node --test",
+    "check": "node scripts/check-addon.mjs",
+    "serve": "node scripts/serve.mjs",
+    "probe": "node scripts/probe-streams.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0",
+    "csv-parse": "6.1.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "44 - Slip Into My Barrier.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1rnJS3-d-cS-WD3LkiKuErEmqxpGE98dg&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "44 - Slip Into My Barrier.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "44 - Slip Into My Barrier (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/44%20-%20Slip%20Into%20My%20Barrier%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "44 - Slip Into My Barrier (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "44 - Slip Into My Barrier (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/44%20-%20Slip%20Into%20My%20Barrier%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "44 - Slip Into My Barrier (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

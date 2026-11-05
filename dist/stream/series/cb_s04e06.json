@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "Hollowed Bleach 56 - The Dark Beat.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1qY1WRNlUnDXZyZf9lc5GOiyCEy2nmUAr&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 56 - The Dark Beat.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "Hollowed Bleach 56 - The Dark Beat (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/9spuTVX2/2%20-%20Lost%20Agent/Hollowed%20Bleach%2056%20-%20The%20Dark%20Beat%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 56 - The Dark Beat (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "Hollowed Bleach 56 - The Dark Beat (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/y1AECf9N/2%20-%20Lost%20Agent/Hollowed%20Bleach%2056%20-%20The%20Dark%20Beat%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "Hollowed Bleach 56 - The Dark Beat (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

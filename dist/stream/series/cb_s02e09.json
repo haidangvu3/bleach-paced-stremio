@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "18 - A Star and a Stray Dog.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1FYBFT7zU7YzworTIbAvj9-ImS2Zfl74j&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "18 - A Star and a Stray Dog.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "18 - A Star and a Stray Dog (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/18%20-%20A%20Star%20and%20a%20Stray%20Dog%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "18 - A Star and a Stray Dog (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "18 - A Star and a Stray Dog (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/18%20-%20A%20Star%20and%20a%20Stray%20Dog%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "18 - A Star and a Stray Dog (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

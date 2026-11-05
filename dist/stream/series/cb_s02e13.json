@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "22 - Black and White.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1KRyNcfkZjJqBS1FN56HWvIqQZGm0s1ji&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "22 - Black and White.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "22 - Black and White (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/22%20-%20Black%20and%20White%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "22 - Black and White (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "22 - Black and White (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/22%20-%20Black%20and%20White%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "22 - Black and White (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "52 - The Slashing Opera.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1F8Sdnl1FcbaRQ3pCgyiCY764pmQNy4rV&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "52 - The Slashing Opera.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "52 - The Slashing Opera (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/52%20-%20The%20Slashing%20Opera%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "52 - The Slashing Opera (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "52 - The Slashing Opera (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/52%20-%20The%20Slashing%20Opera%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "52 - The Slashing Opera (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

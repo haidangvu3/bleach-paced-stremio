@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "30 - Countdown to the End.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=15SWrWb4TDQ_xHvlDMXzjw3Jiz50seRrP&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "30 - Countdown to the End.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "30 - Countdown to the End (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/30%20-%20Countdown%20to%20the%20End%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "30 - Countdown to the End (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "30 - Countdown to the End (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/30%20-%20Countdown%20to%20the%20End%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "30 - Countdown to the End (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

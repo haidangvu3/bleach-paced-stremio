@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "04 - Bad Standard.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1yxkRSFJf14Wu9QMgKl381YE_Pq_7-TdO&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "04 - Bad Standard.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "04 - Bad Standard (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/04%20-%20Bad%20Standard%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "04 - Bad Standard (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "04 - Bad Standard (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/04%20-%20Bad%20Standard%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "04 - Bad Standard (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

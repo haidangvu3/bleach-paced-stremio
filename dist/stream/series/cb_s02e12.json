@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "21 - The Undead.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1_rPz_YzY3EujU7swf0v4vDAd3Znnkjks&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "21 - The Undead.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "21 - The Undead (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/21%20-%20The%20Undead%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "21 - The Undead (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "21 - The Undead (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/21%20-%20The%20Undead%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "21 - The Undead (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

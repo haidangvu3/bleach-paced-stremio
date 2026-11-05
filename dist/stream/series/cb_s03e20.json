@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "53 - Arms of the Giant.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=10PPuyann9ugz8Rd02CrggT0f19htIBlg&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "53 - Arms of the Giant.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "53 - Arms of the Giant (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/53%20-%20Arms%20of%20the%20Giant%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "53 - Arms of the Giant (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "53 - Arms of the Giant (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/53%20-%20Arms%20of%20the%20Giant%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "53 - Arms of the Giant (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "31 - The Deathberry Returns.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1Rb6OnbbDvxggwfy6Z1UrK46aekY7GFah&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "31 - The Deathberry Returns.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "31 - The Deathberry Returns (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/31%20-%20The%20Deathberry%20Returns%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "31 - The Deathberry Returns (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "31 - The Deathberry Returns (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/31%20-%20The%20Deathberry%20Returns%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "31 - The Deathberry Returns (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

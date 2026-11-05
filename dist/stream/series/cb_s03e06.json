@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "41 - Turn the True Power On.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1GknkT_odKaa-URKidnG5E6MNq9tMrOjc&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "41 - Turn the True Power On.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "41 - Turn the True Power On (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/03%20-%20Arrancar%20%5BSub%5D/41%20-%20Turn%20the%20True%20Power%20On%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "41 - Turn the True Power On (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "41 - Turn the True Power On (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/3%20-%20Arrancar%20%5BDub%5D/41%20-%20Turn%20the%20True%20Power%20On%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "41 - Turn the True Power On (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

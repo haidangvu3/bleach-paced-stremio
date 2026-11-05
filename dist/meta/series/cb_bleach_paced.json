@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "id": "cb_bleach_paced",
+    "type": "series",
+    "name": "Bleach — Concentrated + Hollowed",
+    "genres": [
+      "Anime",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Manga-paced Bleach: Concentrated Bleach by Gabby, followed by Hollowed Bleach by Knight, including the two recommended specials. Four arcs in guide order; Google Drive first, Pixeldrain backups. Dual audio where available.",
+    "videos": [
+      {
+        "id": "cb_s01e01",
+        "title": "[CB 01] Death and Strawberry",
+        "season": 1,
+        "episode": 1,
+        "overview": "Concentrated Bleach by Gabby. Original episode 01. Manga chapters: 001.",
+        "released": "2024-04-11T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e02",
+        "title": "[CB 02] Starter",
+        "season": 1,
+        "episode": 2,
+        "overview": "Concentrated Bleach by Gabby. Original episode 02. Manga chapters: 002-006.",
+        "released": "2024-04-12T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e03",
+        "title": "[CB 03] The Pink-Cheeked Cockatiel",
+        "season": 1,
+        "episode": 3,
+        "overview": "Concentrated Bleach by Gabby. Original episode 03. Manga chapters: 007-012.",
+        "released": "2024-04-19T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e04",
+        "title": "[CB 04] Bad Standard",
+        "season": 1,
+        "episode": 4,
+        "overview": "Concentrated Bleach by Gabby. Original episode 04. Manga chapters: 013-017.",
+        "released": "2024-04-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e05",
+        "title": "[CB 05] June 17th -memories in the rain-",
+        "season": 1,
+        "episode": 5,
+        "overview": "Concentrated Bleach by Gabby. Original episode 05. Manga chapters: 018-025.",
+        "released": "2024-04-29T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e06",
+        "title": "[CB 06] Spirits AREN'T Always With Us",
+        "season": 1,
+        "episode": 6,
+        "overview": "Concentrated Bleach by Gabby. Original episode 06. Manga chapters: 027-032.",
+        "released": "2024-05-03T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e07",
+        "title": "[CB 07] Quincy Archer Hates You",
+        "season": 1,
+        "episode": 7,
+        "overview": "Concentrated Bleach by Gabby. Original episode 07. Manga chapters: 033-036.",
+        "released": "2024-05-05T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e08",
+        "title": "[CB 08] Crossing the Rubicon",
+        "season": 1,
+        "episode": 8,
+        "overview": "Concentrated Bleach by Gabby. Original episode 08. Manga chapters: 036-043.",
+        "released": "2024-05-11T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s01e09",
+        "title": "[CB 09] Menos Grande",
+        "season": 1,
+        "episode": 9,
+        "overview": "Concentrated Bleach by Gabby. Original episode 09. Manga chapters: 044-050.",
+        "released": "2024-05-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e01",
+        "title": "[CB 10] The Death Trilogy Overture",
+        "season": 2,
+        "episode": 1,
+        "overview": "Concentrated Bleach by Gabby. Original episode 10. Manga chapters: 026, 051-057.",
+        "released": "2024-04-07T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e02",
+        "title": "[CB 11] blank",
+        "season": 2,
+        "episode": 2,
+        "overview": "Concentrated Bleach by Gabby. Original episode 11. Manga chapters: 057-062.",
+        "released": "2024-05-18T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e03",
+        "title": "[CB 12] The Blade and Me",
+        "season": 2,
+        "episode": 3,
+        "overview": "Concentrated Bleach by Gabby. Original episode 12. Manga chapters: 062-067.",
+        "released": "2024-05-26T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e04",
+        "title": "[CB 13] Our Last Summer Vacation",
+        "season": 2,
+        "episode": 4,
+        "overview": "Concentrated Bleach by Gabby. Original episode 13. Manga chapters: 067-075.",
+        "released": "2024-06-02T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e05",
+        "title": "[CB 14] The Shooting Star Project",
+        "season": 2,
+        "episode": 5,
+        "overview": "Concentrated Bleach by Gabby. Original episode 14. Manga chapters: 076-079.",
+        "released": "2024-06-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e06",
+        "title": "[CB 15] INTRUDERZ",
+        "season": 2,
+        "episode": 6,
+        "overview": "Concentrated Bleach by Gabby. Original episode 15. Manga chapters: 080-085.",
+        "released": "2024-06-16T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e07",
+        "title": "[CB 16] So Unlucky We Are",
+        "season": 2,
+        "episode": 7,
+        "overview": "Concentrated Bleach by Gabby. Original episode 16. Manga chapters: 086-090.",
+        "released": "2024-06-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e08",
+        "title": "[CB 17] Steer for the Star",
+        "season": 2,
+        "episode": 8,
+        "overview": "Concentrated Bleach by Gabby. Original episode 17. Manga chapters: 091-094.",
+        "released": "2024-07-01T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e09",
+        "title": "[CB 18] A Star and a Stray Dog",
+        "season": 2,
+        "episode": 9,
+        "overview": "Concentrated Bleach by Gabby. Original episode 18. Manga chapters: 095-098.",
+        "released": "2024-07-02T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e10",
+        "title": "[CB 19] Flower on the Precipice",
+        "season": 2,
+        "episode": 10,
+        "overview": "Concentrated Bleach by Gabby. Original episode 19. Manga chapters: 099-101.",
+        "released": "2024-07-03T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e11",
+        "title": "[CB 20] Spring, Spring, Meets the Tiger",
+        "season": 2,
+        "episode": 11,
+        "overview": "Concentrated Bleach by Gabby. Original episode 20. Manga chapters: 102-103, 105-108.",
+        "released": "2024-07-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e12",
+        "title": "[CB 21] The Undead",
+        "season": 2,
+        "episode": 12,
+        "overview": "Concentrated Bleach by Gabby. Original episode 21. Manga chapters: 104-105, 108-110.",
+        "released": "2024-07-17T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e13",
+        "title": "[CB 22] Black and White",
+        "season": 2,
+        "episode": 13,
+        "overview": "Concentrated Bleach by Gabby. Original episode 22. Manga chapters: 110-115.",
+        "released": "2024-07-19T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e14",
+        "title": "[CB 23] Remnant",
+        "season": 2,
+        "episode": 14,
+        "overview": "Concentrated Bleach by Gabby. Original episode 23. Manga chapters: 115-119.",
+        "released": "2024-08-05T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e15",
+        "title": "[CB 24] In Sane We Trust",
+        "season": 2,
+        "episode": 15,
+        "overview": "Concentrated Bleach by Gabby. Original episode 24. Manga chapters: 118-121.",
+        "released": "2024-09-05T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e16",
+        "title": "[CB 25] Insanity and Genius",
+        "season": 2,
+        "episode": 16,
+        "overview": "Concentrated Bleach by Gabby. Original episode 25. Manga chapters: 122-127.",
+        "released": "2024-09-13T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e17",
+        "title": "[CB 26] The Straying Stars",
+        "season": 2,
+        "episode": 17,
+        "overview": "Concentrated Bleach by Gabby. Original episode 26. Manga chapters: 127-132, -17.",
+        "released": "2024-09-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e18",
+        "title": "[CB 27] memories in the rain2",
+        "season": 2,
+        "episode": 18,
+        "overview": "Concentrated Bleach by Gabby. Original episode 27. Manga chapters: 128, 133-136.",
+        "released": "2024-11-12T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e19",
+        "title": "[CB 27.5] Meanwhile, in the Living World",
+        "season": 2,
+        "episode": 19,
+        "overview": "Concentrated Bleach by Gabby. Original episode 27.5. Manga chapters: 088.5, 124-158.",
+        "released": "2024-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e20",
+        "title": "[CB 28] Surrounding Clutch",
+        "season": 2,
+        "episode": 20,
+        "overview": "Concentrated Bleach by Gabby. Original episode 28. Manga chapters: 137-139.",
+        "released": "2024-11-23T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e21",
+        "title": "[CB 29] Bite at the Moon",
+        "season": 2,
+        "episode": 21,
+        "overview": "Concentrated Bleach by Gabby. Original episode 29. Manga chapters: 140-145.",
+        "released": "2024-11-23T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e22",
+        "title": "[CB 30] Countdown to the End",
+        "season": 2,
+        "episode": 22,
+        "overview": "Concentrated Bleach by Gabby. Original episode 30. Manga chapters: 145-150.",
+        "released": "2024-12-12T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e23",
+        "title": "[CB 31] The Deathberry Returns",
+        "season": 2,
+        "episode": 23,
+        "overview": "Concentrated Bleach by Gabby. Original episode 31. Manga chapters: 151-156.",
+        "released": "2024-12-16T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e24",
+        "title": "[CB 32] Cat and Hornet",
+        "season": 2,
+        "episode": 24,
+        "overview": "Concentrated Bleach by Gabby. Original episode 32. Manga chapters: 154, 157-159.",
+        "released": "2024-12-19T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e25",
+        "title": "[CB 33] Black Moon Rising",
+        "season": 2,
+        "episode": 25,
+        "overview": "Concentrated Bleach by Gabby. Original episode 33. Manga chapters: 160-167.",
+        "released": "2024-12-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e26",
+        "title": "[CB 34] end of hypnosis",
+        "season": 2,
+        "episode": 26,
+        "overview": "Concentrated Bleach by Gabby. Original episode 34. Manga chapters: 167-178.",
+        "released": "2024-12-27T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e27",
+        "title": "[CB 35] AND THE RAIN LEFT OFF",
+        "season": 2,
+        "episode": 27,
+        "overview": "Concentrated Bleach by Gabby. Original episode 35. Manga chapters: 179-182.",
+        "released": "2025-02-27T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s02e28",
+        "title": "[CB 35.5] the rotator / the sand",
+        "season": 2,
+        "episode": 28,
+        "overview": "Concentrated Bleach by Gabby. Original episode 35.5 (0). Manga chapters: 0 side A + side B.",
+        "released": "2025-01-27T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e01",
+        "title": "[CB 36] Hush",
+        "season": 3,
+        "episode": 1,
+        "overview": "Concentrated Bleach by Gabby. Original episode 36. Manga chapters: 183-188.",
+        "released": "2025-08-06T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e02",
+        "title": "[CB 37] Conquistadores",
+        "season": 3,
+        "episode": 2,
+        "overview": "Concentrated Bleach by Gabby. Original episode 37. Manga chapters: 189-194.",
+        "released": "2025-09-19T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e03",
+        "title": "[CB 38] Death and Strawberry (Reprise)",
+        "season": 3,
+        "episode": 3,
+        "overview": "Concentrated Bleach by Gabby. Original episode 38. Manga chapters: 195-199.",
+        "released": "2025-11-06T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e04",
+        "title": "[CB 39] Night of Sledgehammer",
+        "season": 3,
+        "episode": 4,
+        "overview": "Concentrated Bleach by Gabby. Original episode 39. Manga chapters: 200-203.",
+        "released": "2025-12-25T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e05",
+        "title": "[CB 40] ¡Mala Suerte!",
+        "season": 3,
+        "episode": 5,
+        "overview": "Concentrated Bleach by Gabby. Original episode 40. Manga chapters: 203-206.",
+        "released": "2025-12-25T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e06",
+        "title": "[CB 41] Turn the True Power On",
+        "season": 3,
+        "episode": 6,
+        "overview": "Concentrated Bleach by Gabby. Original episode 41. Manga chapters: 206-213.",
+        "released": "2026-01-21T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e07",
+        "title": "[CB 42] Immanent God Blues",
+        "season": 3,
+        "episode": 7,
+        "overview": "Concentrated Bleach by Gabby. Original episode 42. Manga chapters: 214-217.",
+        "released": "2026-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e08",
+        "title": "[CB 43] No Shaking Throne",
+        "season": 3,
+        "episode": 8,
+        "overview": "Concentrated Bleach by Gabby. Original episode 43. Manga chapters: 217-222.",
+        "released": "2026-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e09",
+        "title": "[CB 44] Slip Into My Barrier",
+        "season": 3,
+        "episode": 9,
+        "overview": "Concentrated Bleach by Gabby. Original episode 44. Manga chapters: 222-226.",
+        "released": "2026-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e10",
+        "title": "[CB 45] The Swordless Soldier",
+        "season": 3,
+        "episode": 10,
+        "overview": "Concentrated Bleach by Gabby. Original episode 45. Manga chapters: 227-229.",
+        "released": "2026-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e11",
+        "title": "[CB 45.5 / HB SP01] Memories of Nobody (Canon Movie 1 Edit)",
+        "season": 3,
+        "episode": 11,
+        "overview": "Hollowed Bleach by Knight. Original episode SP01. Manga chapters: N/A. An edited version of Movie 01 to fit into canon (Watch after HB07 or CB45)",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e12",
+        "title": "[CB 46] The Mascaron Drive",
+        "season": 3,
+        "episode": 12,
+        "overview": "Concentrated Bleach by Gabby. Original episode 46. Manga chapters: 229-234.",
+        "released": "2026-02-28T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e13",
+        "title": "[CB 47] goodbye, halcyon days.",
+        "season": 3,
+        "episode": 13,
+        "overview": "Concentrated Bleach by Gabby. Original episode 47. Manga chapters: 234-237.",
+        "released": "2026-02-28T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e14",
+        "title": "[CB 48] Eagle Without Wings",
+        "season": 3,
+        "episode": 14,
+        "overview": "Concentrated Bleach by Gabby. Original episode 48. Manga chapters: 238-241.",
+        "released": "2026-04-07T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e15",
+        "title": "[CB 49] Winged Eagles",
+        "season": 3,
+        "episode": 15,
+        "overview": "Concentrated Bleach by Gabby. Original episode 49. Manga chapters: 241-245.",
+        "released": "2026-06-17T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e16",
+        "title": "[CB 50] United on the Desert",
+        "season": 3,
+        "episode": 16,
+        "overview": "⚠️ Watch Note: Pause at 16:15, watch Episode 50.5 [HB SP02 - Forest of Menos], then resume CB 50. Concentrated Bleach by Gabby. Original episode 50. Manga chapters: 245-250.",
+        "released": "2026-06-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e17",
+        "title": "[CB 50.5 / HB SP02] Forest of Menos",
+        "season": 3,
+        "episode": 17,
+        "overview": "Hollowed Bleach by Knight. Original episode SP02. Manga chapters: Filler. Covers the filler forest of menos story (Watch after HB11 or CB 50 at 16:15)",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e18",
+        "title": "[CB 51] Baron's Lecture Full-Course",
+        "season": 3,
+        "episode": 18,
+        "overview": "Concentrated Bleach by Gabby. Original episode 51. Manga chapters: 251-254.",
+        "released": "2026-06-23T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e19",
+        "title": "[CB 52] The Slashing Opera",
+        "season": 3,
+        "episode": 19,
+        "overview": "Concentrated Bleach by Gabby. Original episode 52. Manga chapters: 254-259.",
+        "released": "2026-08-25T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e20",
+        "title": "[CB 53] Arms of the Giant",
+        "season": 3,
+        "episode": 20,
+        "overview": "Concentrated Bleach by Gabby. Original episode 53. Manga chapters: 259-263.",
+        "released": "2026-08-25T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e21",
+        "title": "[CB 54] There is No Heart Without You",
+        "season": 3,
+        "episode": 21,
+        "overview": "Concentrated Bleach by Gabby. Original episode 54. Manga chapters: 262-269.",
+        "released": "2026-08-25T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e22",
+        "title": "[CB 55] Don't Kill My Volupture",
+        "season": 3,
+        "episode": 22,
+        "overview": "Concentrated Bleach by Gabby. Original episode 55. Manga chapters: 264-265, 269-272.",
+        "released": "2026-09-03T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e23",
+        "title": "[CB 56] The Monster",
+        "season": 3,
+        "episode": 23,
+        "overview": "Concentrated Bleach by Gabby. Original episode 56. Manga chapters: 272-278.",
+        "released": "2026-09-19T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e24",
+        "title": "[CB 57] Devour the Flesh, Alone",
+        "season": 3,
+        "episode": 24,
+        "overview": "Concentrated Bleach by Gabby. Original episode 57. Manga chapters: 279-286.",
+        "released": "2026-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e25",
+        "title": "[HB 22] THE BAD JOKE (Start at 05:28)",
+        "season": 3,
+        "episode": 25,
+        "overview": "⚠️ Watch Note: Start at 05:28 (picking up right after CB 57). Hollowed Bleach by Knight. Original episode 22. Manga chapters: 286-292.",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e26",
+        "title": "[HB 23] King of the Kill",
+        "season": 3,
+        "episode": 26,
+        "overview": "Hollowed Bleach by Knight. Original episode 23. Manga chapters: 292-297.",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e27",
+        "title": "[HB 24] INTRUDERZ",
+        "season": 3,
+        "episode": 27,
+        "overview": "Hollowed Bleach by Knight. Original episode 24. Manga chapters: 298-303.",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e28",
+        "title": "[HB 25] Not Perfect is GOoD",
+        "season": 3,
+        "episode": 28,
+        "overview": "Hollowed Bleach by Knight. Original episode 25. Manga chapters: 304-308.",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e29",
+        "title": "[HB 26] TO CLOSE YOUR WORLD",
+        "season": 3,
+        "episode": 29,
+        "overview": "Hollowed Bleach by Knight. Original episode 26. Manga chapters: 309-315.",
+        "released": "2025-10-14T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e30",
+        "title": "[HB 27] Turn Back the Pendulum",
+        "season": 3,
+        "episode": 30,
+        "overview": "Hollowed Bleach by Knight. Original episode 27. Manga chapters: -108 to -104. Full Movie in EX",
+        "released": "2025-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e31",
+        "title": "[HB 28] The Pendulum Keeps Swinging",
+        "season": 3,
+        "episode": 31,
+        "overview": "Hollowed Bleach by Knight. Original episode 28. Manga chapters: -104 to -101.",
+        "released": "2025-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e32",
+        "title": "[HB 29] Let Stop the Pendulum",
+        "season": 3,
+        "episode": 32,
+        "overview": "Hollowed Bleach by Knight. Original episode 29. Manga chapters: -100 to -97.",
+        "released": "2025-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e33",
+        "title": "[HB 29.5] a wonderful error",
+        "season": 3,
+        "episode": 33,
+        "overview": "Hollowed Bleach by Knight. Original episode 29.5 (0.8). Manga chapters: 0.8.",
+        "released": "2025-10-24T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e34",
+        "title": "[HB 30] Six Hearts Will Beat As One",
+        "season": 3,
+        "episode": 34,
+        "overview": "Hollowed Bleach by Knight. Original episode 30. Manga chapters: 316-319.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e35",
+        "title": "[HB 31] Ants & Dragons",
+        "season": 3,
+        "episode": 35,
+        "overview": "Hollowed Bleach by Knight. Original episode 31. Manga chapters: 320-324.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e36",
+        "title": "[HB 32] Knockdown Monsters",
+        "season": 3,
+        "episode": 36,
+        "overview": "Hollowed Bleach by Knight. Original episode 32. Manga chapters: 324-329.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e37",
+        "title": "[HB 33] Stingy Stinger",
+        "season": 3,
+        "episode": 37,
+        "overview": "Hollowed Bleach by Knight. Original episode 33. Manga chapters: 330-333.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e38",
+        "title": "[HB 34] The Deathbringer Numbers",
+        "season": 3,
+        "episode": 38,
+        "overview": "Hollowed Bleach by Knight. Original episode 34. Manga chapters: 333-339.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e39",
+        "title": "[HB 35] The Sin",
+        "season": 3,
+        "episode": 39,
+        "overview": "Hollowed Bleach by Knight. Original episode 35. Manga chapters: 340-345.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e40",
+        "title": "[HB 36] heart",
+        "season": 3,
+        "episode": 40,
+        "overview": "Hollowed Bleach by Knight. Original episode 36. Manga chapters: 346-354.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e41",
+        "title": "[HB 37] Tyrant of Skulls",
+        "season": 3,
+        "episode": 41,
+        "overview": "Hollowed Bleach by Knight. Original episode 37. Manga chapters: 354-359, -16.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e42",
+        "title": "[HB 38] Grinning Revengers",
+        "season": 3,
+        "episode": 42,
+        "overview": "Hollowed Bleach by Knight. Original episode 38. Manga chapters: 359-364.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e43",
+        "title": "[HB 39] Spit On Your Own God",
+        "season": 3,
+        "episode": 43,
+        "overview": "Hollowed Bleach by Knight. Original episode 39. Manga chapters: 365-371.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e44",
+        "title": "[HB 40] Wolves Ain't Howl Alone",
+        "season": 3,
+        "episode": 44,
+        "overview": "Hollowed Bleach by Knight. Original episode 40. Manga chapters: 372-375.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e45",
+        "title": "[HB 41] EXecution, EXtinction",
+        "season": 3,
+        "episode": 45,
+        "overview": "Hollowed Bleach by Knight. Original episode 41. Manga chapters: 375-377. Skip to 20:00 if you wanna skip the filler Harribel backstory",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e46",
+        "title": "[HB 42] Devil, Devil, Devil, Devil",
+        "season": 3,
+        "episode": 46,
+        "overview": "Hollowed Bleach by Knight. Original episode 42. Manga chapters: 378-383.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e47",
+        "title": "[HB 43] Vice It",
+        "season": 3,
+        "episode": 47,
+        "overview": "Hollowed Bleach by Knight. Original episode 43. Manga chapters: 383-387.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e48",
+        "title": "[HB 44] The Burnout Inferno",
+        "season": 3,
+        "episode": 48,
+        "overview": "Hollowed Bleach by Knight. Original episode 44. Manga chapters: 388-395.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e49",
+        "title": "[HB 45] DEICIDE",
+        "season": 3,
+        "episode": 49,
+        "overview": "Hollowed Bleach by Knight. Original episode 45. Manga chapters: 396-401.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e50",
+        "title": "[HB 46] DEICIDE 2 [End of the Chrysalis Age]",
+        "season": 3,
+        "episode": 50,
+        "overview": "Hollowed Bleach by Knight. Original episode 46. Manga chapters: 402-407.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e51",
+        "title": "[HB 47] DEICIDE 3 [Black + White]",
+        "season": 3,
+        "episode": 51,
+        "overview": "Hollowed Bleach by Knight. Original episode 47. Manga chapters: 408-411.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e52",
+        "title": "[HB 48] DEICIDE 4 [THE END]",
+        "season": 3,
+        "episode": 52,
+        "overview": "Hollowed Bleach by Knight. Original episode 48. Manga chapters: 412-416.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e53",
+        "title": "[HB 49] DEICIDE 5 [GOD IS DEAD]",
+        "season": 3,
+        "episode": 53,
+        "overview": "Hollowed Bleach by Knight. Original episode 49. Manga chapters: 417-421.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s03e54",
+        "title": "[HB 50] Bleach My Soul",
+        "season": 3,
+        "episode": 54,
+        "overview": "Hollowed Bleach by Knight. Original episode 50. Manga chapters: 422-423.",
+        "released": "2025-11-08T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e01",
+        "title": "[HB 51] The Lost Agent",
+        "season": 4,
+        "episode": 1,
+        "overview": "Hollowed Bleach by Knight. Original episode 51. Manga chapters: 424-427.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e02",
+        "title": "[HB 52] Welcome to our EXECUTION",
+        "season": 4,
+        "episode": 2,
+        "overview": "Hollowed Bleach by Knight. Original episode 52. Manga chapters: 428-431.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e03",
+        "title": "[HB 53] BERRY IN THE BOX",
+        "season": 4,
+        "episode": 3,
+        "overview": "Hollowed Bleach by Knight. Original episode 53. Manga chapters: 432-438.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e04",
+        "title": "[HB 54] Mute Friendship",
+        "season": 4,
+        "episode": 4,
+        "overview": "Hollowed Bleach by Knight. Original episode 54. Manga chapters: 438-441.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e05",
+        "title": "[HB 55] The Rising",
+        "season": 4,
+        "episode": 5,
+        "overview": "Hollowed Bleach by Knight. Original episode 55. Manga chapters: 441-444.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e06",
+        "title": "[HB 56] The Dark Beat",
+        "season": 4,
+        "episode": 6,
+        "overview": "Hollowed Bleach by Knight. Original episode 56. Manga chapters: 445-448.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e07",
+        "title": "[HB 57] Welcome to our EXECUTION 2",
+        "season": 4,
+        "episode": 7,
+        "overview": "Hollowed Bleach by Knight. Original episode 57. Manga chapters: 448-451.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e08",
+        "title": "[HB 58] End of Bond",
+        "season": 4,
+        "episode": 8,
+        "overview": "Hollowed Bleach by Knight. Original episode 58. Manga chapters: 452-456.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e09",
+        "title": "[HB 59] Death & Strawberry 2",
+        "season": 4,
+        "episode": 9,
+        "overview": "Hollowed Bleach by Knight. Original episode 59. Manga chapters: 456-459.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e10",
+        "title": "[HB 60] The Deathberry Returns 2",
+        "season": 4,
+        "episode": 10,
+        "overview": "Hollowed Bleach by Knight. Original episode 60. Manga chapters: 460-463.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e11",
+        "title": "[HB 61] Pray for Predators",
+        "season": 4,
+        "episode": 11,
+        "overview": "Hollowed Bleach by Knight. Original episode 61. Manga chapters: 464-473.",
+        "released": "2026-09-20T00:00:00.000Z"
+      },
+      {
+        "id": "cb_s04e12",
+        "title": "[HB 62] Goodbye to Our Xcution",
+        "season": 4,
+        "episode": 12,
+        "overview": "Hollowed Bleach by Knight. Original episode 62. Manga chapters: 470, 473-479.",
+        "released": "2026-09-20T00:00:00.000Z"
+      }
+    ]
+  },
+  "cacheMaxAge": 3600
+}

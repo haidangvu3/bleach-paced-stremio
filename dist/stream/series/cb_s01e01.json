@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "01 - Death and Strawberry.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1wayzn_6YmfAShsIcPh3k89BJ_euot_Qa&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "01 - Death and Strawberry.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "01 - Death and Strawberry (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/01%20-%20Substitute%20Soul%20Reaper%20%5BSub%5D/01%20-%20Death%20and%20Strawberry%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "01 - Death and Strawberry (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "01 - Death and Strawberry (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/1%20-%20Substitute%20Soul%20Reaper%20%5BDub%5D/01%20-%20Death%20and%20Strawberry%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "01 - Death and Strawberry (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

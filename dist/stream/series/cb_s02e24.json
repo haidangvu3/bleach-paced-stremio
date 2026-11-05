@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "32 - Cat and Hornet.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1KIeUUvnWUyLG26piTdgIyFg1OY-llc4i&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "32 - Cat and Hornet.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "32 - Cat and Hornet (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/32%20-%20Cat%20and%20Hornet%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "32 - Cat and Hornet (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "32 - Cat and Hornet (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/32%20-%20Cat%20and%20Hornet%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "32 - Cat and Hornet (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}

@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "name": "Google Drive [Dual Audio MKV]",
+      "title": "27.5 - Meanwhile, in the Living World.mkv",
+      "url": "https://drive.usercontent.google.com/download?id=1JaKrQ2G3tHl4ieozrK9bJ3SkA_5bEOo_&export=download&confirm=t",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "27.5 - Meanwhile, in the Living World.mkv"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Sub]",
+      "title": "27.5 - Meanwhile, in the Living World (Sub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/rwPVCu7Z/02%20-%20Soul%20Society%20%5BSub%5D/27.5%20-%20Meanwhile%2C%20in%20the%20Living%20World%20(Sub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "27.5 - Meanwhile, in the Living World (Sub).mp4"
+      }
+    },
+    {
+      "name": "Pixeldrain Backup [Dub]",
+      "title": "27.5 - Meanwhile, in the Living World (Dub).mp4",
+      "url": "https://pixeldrain.com/api/filesystem/goCGsiJG/2%20-%20Soul%20Society%20%5BDub%5D/27.5%20-%20Meanwhile%2C%20in%20the%20Living%20World%20(Dub).mp4",
+      "behaviorHints": {
+        "notWebReady": false,
+        "filename": "27.5 - Meanwhile, in the Living World (Dub).mp4"
+      }
+    }
+  ],
+  "cacheMaxAge": 3600
+}
