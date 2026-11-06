@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-05T13:44:58.316Z",
+  "builtAt": "2026-11-06T13:29:00.130Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -14,23 +14,19 @@
       "status": "ok"
     },
     {
-      "source": "sheet:hb2",
-      "status": "ok"
-    },
-    {
       "source": "sheet:hb3",
       "status": "ok"
     },
     {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "source": "sheet:hb2",
       "status": "ok"
     },
     {
-      "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
+      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
       "status": "ok"
     },
     {
-      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
+      "source": "drive:1zBfNvZuzVyydiRUQ3brixL_K4ykIENHH",
       "status": "ok"
     },
     {
@@ -39,6 +35,18 @@
     },
     {
       "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
+      "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
       "status": "ok"
     },
     {
@@ -59,14 +67,6 @@
     },
     {
       "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
-      "status": "ok"
-    },
-    {
-      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1zBfNvZuzVyydiRUQ3brixL_K4ykIENHH",
       "status": "ok"
     },
     {
@@ -114,14 +114,6 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/0 - Specials",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/y1AECf9N/0 - Specials",
-      "status": "ok"
-    },
-    {
       "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
       "status": "ok"
     },
@@ -130,7 +122,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
+      "source": "pixel:/y1AECf9N/0 - Specials",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/0 - Specials",
       "status": "ok"
     },
     {
@@ -138,11 +134,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:rwPVCu7Z",
+      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
+      "source": "pixel:rwPVCu7Z",
       "status": "ok"
     },
     {
@@ -150,23 +146,19 @@
       "status": "ok"
     },
     {
+      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
+      "status": "ok"
+    },
+    {
       "source": "pixel:goCGsiJG",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent",
+      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
       "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
@@ -178,19 +170,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
+      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/9spuTVX2/1 - Arrancar",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:9spuTVX2",
+      "source": "pixel:/9spuTVX2/2 - Lost Agent",
       "status": "ok"
     },
     {
@@ -207,6 +191,22 @@
     },
     {
       "source": "pixel:y1AECf9N",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:9spuTVX2",
       "status": "ok"
     }
   ],
