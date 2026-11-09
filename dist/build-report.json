@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-08T12:29:21.201Z",
+  "builtAt": "2026-11-09T14:44:49.900Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -19,6 +19,14 @@
     },
     {
       "source": "sheet:hb3",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
+      "status": "ok"
+    },
+    {
+      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
       "status": "ok"
     },
     {
@@ -42,14 +50,6 @@
       "status": "ok"
     },
     {
-      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
-      "status": "ok"
-    },
-    {
-      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
-      "status": "ok"
-    },
-    {
       "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
       "status": "ok"
     },
@@ -66,11 +66,19 @@
       "status": "ok"
     },
     {
+      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
+      "status": "ok"
+    },
+    {
       "source": "drive:18V_VFzfRPWfLfFv_Nge5cBnCyKCwXDG0",
       "status": "ok"
     },
     {
-      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
+      "source": "drive:1SfWvymu8GTCT3TnPrlHt0T9jxz8yhzUo",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
       "status": "ok"
     },
     {
@@ -95,14 +103,6 @@
     },
     {
       "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1SfWvymu8GTCT3TnPrlHt0T9jxz8yhzUo",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
       "status": "ok"
     },
     {
@@ -114,11 +114,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/0 - Specials",
+      "source": "pixel:/goCGsiJG/1 - Substitute Soul Reaper [Dub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/goCGsiJG/1 - Substitute Soul Reaper [Dub]",
+      "source": "pixel:/9spuTVX2/0 - Specials",
       "status": "ok"
     },
     {
@@ -126,7 +126,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
+      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
       "status": "ok"
     },
     {
@@ -134,19 +134,19 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
-      "status": "ok"
-    },
-    {
       "source": "pixel:goCGsiJG",
       "status": "ok"
     },
     {
-      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
+      "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
       "status": "ok"
     },
     {
       "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
       "status": "ok"
     },
     {
