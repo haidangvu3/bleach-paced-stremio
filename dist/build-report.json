@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-09T14:44:49.900Z",
+  "builtAt": "2026-11-10T13:59:07.063Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -22,19 +22,11 @@
       "status": "ok"
     },
     {
-      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
-      "status": "ok"
-    },
-    {
-      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
       "status": "ok"
     },
     {
       "source": "drive:1z7QNvitQ6vN_U_OHC9Wxt321zVxHha4-",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
       "status": "ok"
     },
     {
@@ -47,6 +39,14 @@
     },
     {
       "source": "drive:1zBfNvZuzVyydiRUQ3brixL_K4ykIENHH",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
+      "status": "ok"
+    },
+    {
+      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
       "status": "ok"
     },
     {
@@ -74,15 +74,15 @@
       "status": "ok"
     },
     {
+      "source": "drive:1l_tbvF5UFj0nNYsglDFrYoinh0aIeEmF",
+      "status": "ok"
+    },
+    {
       "source": "drive:1SfWvymu8GTCT3TnPrlHt0T9jxz8yhzUo",
       "status": "ok"
     },
     {
       "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1l_tbvF5UFj0nNYsglDFrYoinh0aIeEmF",
       "status": "ok"
     },
     {
@@ -114,7 +114,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/goCGsiJG/1 - Substitute Soul Reaper [Dub]",
+      "source": "pixel:/y1AECf9N/0 - Specials",
       "status": "ok"
     },
     {
@@ -122,27 +122,19 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/y1AECf9N/0 - Specials",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/goCGsiJG/3 - Arrancar [Dub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:goCGsiJG",
-      "status": "ok"
-    },
-    {
       "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
       "status": "ok"
     },
     {
+      "source": "pixel:/goCGsiJG/1 - Substitute Soul Reaper [Dub]",
+      "status": "ok"
+    },
+    {
       "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
       "status": "ok"
     },
     {
@@ -154,15 +146,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
+      "source": "pixel:/goCGsiJG/3 - Arrancar [Dub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent",
+      "source": "pixel:goCGsiJG",
       "status": "ok"
     },
     {
@@ -175,6 +163,18 @@
     },
     {
       "source": "pixel:/y1AECf9N/2 - Lost Agent",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/2 - Lost Agent",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
