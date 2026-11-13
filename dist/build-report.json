@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-12T14:19:22.927Z",
+  "builtAt": "2026-11-13T13:40:05.098Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -10,19 +10,15 @@
   "episodeCount": 103,
   "sources": [
     {
+      "source": "sheet:hb2",
+      "status": "ok"
+    },
+    {
       "source": "sheet:cb",
       "status": "ok"
     },
     {
       "source": "sheet:hb3",
-      "status": "ok"
-    },
-    {
-      "source": "sheet:hb2",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
       "status": "ok"
     },
     {
@@ -38,23 +34,15 @@
       "status": "ok"
     },
     {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
       "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
       "status": "ok"
     },
     {
       "source": "drive:1zBfNvZuzVyydiRUQ3brixL_K4ykIENHH",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1OCLWJwRmmuEnpnEHYR63IPv7RIXCOX6S",
       "status": "ok"
     },
     {
@@ -66,6 +54,18 @@
       "status": "ok"
     },
     {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1OCLWJwRmmuEnpnEHYR63IPv7RIXCOX6S",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
+      "status": "ok"
+    },
+    {
       "source": "drive:18V_VFzfRPWfLfFv_Nge5cBnCyKCwXDG0",
       "status": "ok"
     },
@@ -74,15 +74,15 @@
       "status": "ok"
     },
     {
-      "source": "drive:1l_tbvF5UFj0nNYsglDFrYoinh0aIeEmF",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
+      "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
       "status": "ok"
     },
     {
       "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1l_tbvF5UFj0nNYsglDFrYoinh0aIeEmF",
       "status": "ok"
     },
     {
@@ -114,15 +114,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/y1AECf9N/0 - Specials",
-      "status": "ok"
-    },
-    {
       "source": "pixel:/goCGsiJG/1 - Substitute Soul Reaper [Dub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/9spuTVX2/0 - Specials",
       "status": "ok"
     },
     {
@@ -130,11 +122,15 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
+      "source": "pixel:/y1AECf9N/0 - Specials",
       "status": "ok"
     },
     {
       "source": "pixel:/goCGsiJG/3 - Arrancar [Dub]",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/goCGsiJG/2 - Soul Society [Dub]",
       "status": "ok"
     },
     {
@@ -154,11 +150,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent",
+      "source": "pixel:/9spuTVX2/0 - Specials",
       "status": "ok"
     },
     {
@@ -167,6 +159,14 @@
     },
     {
       "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/2 - Lost Agent",
       "status": "ok"
     },
     {
