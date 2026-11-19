@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-18T14:50:01.687Z",
+  "builtAt": "2026-11-19T14:57:03.690Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -10,15 +10,27 @@
   "episodeCount": 103,
   "sources": [
     {
-      "source": "sheet:cb",
-      "status": "ok"
-    },
-    {
       "source": "sheet:hb2",
       "status": "ok"
     },
     {
+      "source": "sheet:cb",
+      "status": "ok"
+    },
+    {
       "source": "sheet:hb3",
+      "status": "ok"
+    },
+    {
+      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1z7QNvitQ6vN_U_OHC9Wxt321zVxHha4-",
       "status": "ok"
     },
     {
@@ -30,7 +42,11 @@
       "status": "ok"
     },
     {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "source": "drive:1F20hXdUMZYozPCpE77vdsbVRaN92kOrd",
+      "status": "ok"
+    },
+    {
+      "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
       "status": "ok"
     },
     {
@@ -39,22 +55,6 @@
     },
     {
       "source": "drive:1zBfNvZuzVyydiRUQ3brixL_K4ykIENHH",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1z7QNvitQ6vN_U_OHC9Wxt321zVxHha4-",
-      "status": "ok"
-    },
-    {
-      "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1F20hXdUMZYozPCpE77vdsbVRaN92kOrd",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
       "status": "ok"
     },
     {
@@ -70,7 +70,7 @@
       "status": "ok"
     },
     {
-      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
+      "source": "drive:1RE_3_E6yyXF9HYs8onWx9fjmqm9UDU50",
       "status": "ok"
     },
     {
@@ -114,7 +114,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/y1AECf9N/0 - Specials",
+      "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
       "status": "ok"
     },
     {
@@ -122,7 +122,23 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
+      "source": "pixel:/9spuTVX2/0 - Specials",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/y1AECf9N/0 - Specials",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:rwPVCu7Z",
       "status": "ok"
     },
     {
@@ -138,23 +154,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/0 - Specials",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:rwPVCu7Z",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v3)",
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
@@ -166,10 +166,6 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
-      "status": "ok"
-    },
-    {
       "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
       "status": "ok"
     },
@@ -178,19 +174,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v2)",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/y1AECf9N/1 - Arrancar",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:y1AECf9N",
+      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
@@ -207,6 +191,22 @@
     },
     {
       "source": "pixel:9spuTVX2",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/y1AECf9N/1 - Arrancar/Hollowed Bleach (v2)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/y1AECf9N/1 - Arrancar",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:y1AECf9N",
       "status": "ok"
     }
   ],
