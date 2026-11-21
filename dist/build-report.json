@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-20T14:38:43.519Z",
+  "builtAt": "2026-11-21T13:55:42.056Z",
   "offline": false,
   "seasonCounts": [
     9,
@@ -22,11 +22,23 @@
       "status": "ok"
     },
     {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
       "source": "drive:1BQ2STVVDgtULuC9CwtKEYfSs8NPIIj0B",
       "status": "ok"
     },
     {
+      "source": "drive:1z7QNvitQ6vN_U_OHC9Wxt321zVxHha4-",
+      "status": "ok"
+    },
+    {
       "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
+      "status": "ok"
+    },
+    {
+      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
       "status": "ok"
     },
     {
@@ -38,23 +50,19 @@
       "status": "ok"
     },
     {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1z7QNvitQ6vN_U_OHC9Wxt321zVxHha4-",
-      "status": "ok"
-    },
-    {
-      "source": "drive:15EIpp2j9rXfuoAPJlXF8ep74LABgMH2U",
-      "status": "ok"
-    },
-    {
       "source": "drive:16QcaWIAV1dhbphU_WltGNla3uK4Za_VM",
       "status": "ok"
     },
     {
       "source": "drive:1F20hXdUMZYozPCpE77vdsbVRaN92kOrd",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
+      "status": "ok"
+    },
+    {
+      "source": "drive:1OCLWJwRmmuEnpnEHYR63IPv7RIXCOX6S",
       "status": "ok"
     },
     {
@@ -70,19 +78,11 @@
       "status": "ok"
     },
     {
-      "source": "drive:1CnR0_PgLmb7d0j7TNWP2BPjLHaNCwdVp",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1OCLWJwRmmuEnpnEHYR63IPv7RIXCOX6S",
+      "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
       "status": "ok"
     },
     {
       "source": "drive:1SfWvymu8GTCT3TnPrlHt0T9jxz8yhzUo",
-      "status": "ok"
-    },
-    {
-      "source": "drive:1oU5affNaIftsJnvTXeYeDYHgeFQmSkaY",
       "status": "ok"
     },
     {
@@ -114,7 +114,7 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/0 - Specials",
+      "source": "pixel:/y1AECf9N/0 - Specials",
       "status": "ok"
     },
     {
@@ -122,27 +122,11 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/y1AECf9N/0 - Specials",
-      "status": "ok"
-    },
-    {
       "source": "pixel:/rwPVCu7Z/01 - Substitute Soul Reaper [Sub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:rwPVCu7Z",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:/goCGsiJG/3 - Arrancar [Dub]",
+      "source": "pixel:/9spuTVX2/0 - Specials",
       "status": "ok"
     },
     {
@@ -150,19 +134,23 @@
       "status": "ok"
     },
     {
+      "source": "pixel:/goCGsiJG/3 - Arrancar [Dub]",
+      "status": "ok"
+    },
+    {
       "source": "pixel:goCGsiJG",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
+      "source": "pixel:/rwPVCu7Z/03 - Arrancar [Sub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
+      "source": "pixel:/rwPVCu7Z/02 - Soul Society [Sub]",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/2 - Lost Agent",
+      "source": "pixel:rwPVCu7Z",
       "status": "ok"
     },
     {
@@ -178,19 +166,15 @@
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
+      "source": "pixel:/9spuTVX2/2 - Lost Agent/EX Episode(s)",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)",
+      "source": "pixel:/9spuTVX2/2 - Lost Agent",
       "status": "ok"
     },
     {
-      "source": "pixel:/9spuTVX2/1 - Arrancar",
-      "status": "ok"
-    },
-    {
-      "source": "pixel:9spuTVX2",
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v3)",
       "status": "ok"
     },
     {
@@ -207,6 +191,22 @@
     },
     {
       "source": "pixel:y1AECf9N",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)/EX Episodes",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar/Hollowed Bleach (v2)",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:/9spuTVX2/1 - Arrancar",
+      "status": "ok"
+    },
+    {
+      "source": "pixel:9spuTVX2",
       "status": "ok"
     }
   ],
